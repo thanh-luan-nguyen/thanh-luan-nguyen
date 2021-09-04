@@ -2,13 +2,17 @@
 
 > These are all of my projects
 
-| Project Name   |      Live Preview      |  Code |
-|:----------|:-------------:|:------:|
-| **Google homepage** |  <a href="https://thanh-luan-nguyen.github.io/google-homepage/" target="_blank">Live Preview</a>| <a href="https://github.com/thanh-luan-nguyen/google-homepage" target="_blank">Code</a>|
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
-- **Google homepage**  
+| Project Name | Project Description | Live Preview | Code |
+|:---|:---:|:---:|:---:|
+| **Google homepage** | [Description](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/html-css) |[Preview](https://thanh-luan-nguyen.github.io/google-homepage/) | [Code](https://github.com/thanh-luan-nguyen/google-homepage)|
+| **** | [Description]() | [Preview]() | [Code]() |
+| **** | [Description]() | [Preview]() | [Code]() |
+| **** | [Description]() | [Preview]() | [Code]() |
+| **** | [Description]() | [Preview]() | [Code]() |
+| **** | [Description]() | [Preview]() | [Code]() |
+| **** | [Description]() | [Preview]() | [Code]() |
+| **** | [Description]() | [Preview]() | [Code]() |
+| **** | [Description]() | [Preview]() | [Code]() |
 
 - **a responsive website** [demo](https://nguyen-thanh-luan-github.github.io/a-responsive-website-github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/a-responsive-website-github.io)
 
