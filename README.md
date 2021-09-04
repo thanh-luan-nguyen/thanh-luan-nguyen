@@ -4,7 +4,7 @@
 
 | Project Name   |      Live Preview      |  Code |
 |:----------|:-------------:|:------:|
-| **Google homepage** |  [demo](https://thanh-luan-nguyen.github.io/google-homepage/) | [code](https://github.com/thanh-luan-nguyen/google-homepage) |
+| **Google homepage** |  <a href="https://thanh-luan-nguyen.github.io/google-homepage/" target="_blank">Live Preview</a>| <a href="https://github.com/thanh-luan-nguyen/google-homepage" target="_blank">Code</a>|
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
 
