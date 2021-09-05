@@ -6,12 +6,18 @@
 |:---|:---:|:---:|:---:|
 | **Google homepage** | [theOdinProject](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/html-css) |[Preview](https://thanh-luan-nguyen.github.io/google-homepage) | [Code](https://github.com/thanh-luan-nguyen/google-homepage)|
 | **rock paper scissors** | [theOdinPoject](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/rock-paper-scissors) | [Preview](https://thanh-luan-nguyen.github.io/rock-paper-scissors) | [Code](https://github.com/thanh-luan-nguyen/rock-paper-scissors) |
-| **** | [theOdinProject]() | [Preview](https://thanh-luan-nguyen.github.io/*) | [Code](https://github.com/thanh-luan-nguyen/*) |
-| **** | [theOdinProject]() | [Preview](https://thanh-luan-nguyen.github.io/*) | [Code](https://github.com/thanh-luan-nguyen/*) |
-| **** | [theOdinProject]() | [Preview](https://thanh-luan-nguyen.github.io/*) | [Code](https://github.com/thanh-luan-nguyen/*) |
-| **** | [theOdinProject]() | [Preview](https://thanh-luan-nguyen.github.io/*) | [Code](https://github.com/thanh-luan-nguyen/*) |
-
-
+| **etch-a-sketch** | [theOdinProject](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/etch-a-sketch-project) | [Preview](https://thanh-luan-nguyen.github.io/etch-a-sketch) | [Code](https://github.com/thanh-luan-nguyen/etch-a-sketch.github.io) |
+| **calculator app** | [theOdinProject](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/calculator) | [Preview](https://thanh-luan-nguyen.github.io/calculator-app) | [Code](https://github.com/thanh-luan-nguyen/calculator-app.github.io) |
+| **library app** | [theOdinProject](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/library) | [Preview](https://thanh-luan-nguyen.github.io/library) | [Code](https://github.com/thanh-luan-nguyen/library.github.io) |
+| **tic-tac-toe** | [theOdinProject](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/tic-tac-toe) | [Preview](https://thanh-luan-nguyen.github.io/tic-tac-toe) | [Code](https://github.com/thanh-luan-nguyen/tic-tac-toe.github.io) |
+| **restaurant page** | [theOdinProject](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/restaurant-page) | [Preview](https://thanh-luan-nguyen.github.io/restaurant-page) | [Code](https://github.com/thanh-luan-nguyen/restaurant-page.github.io) |
+| **to-do-list app** | [theOdinProject](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/todo-list) | [Preview](https://thanh-luan-nguyen.github.io/to-do-list) | [Code](https://github.com/thanh-luan-nguyen/to-do-list.github.io) |
+| **weather app** | [theOdinProject](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/weather-app) | [Preview](https://thanh-luan-nguyen.github.io/weather-app) | [Code](https://github.com/thanh-luan-nguyen/weather-app) |
+| **unit testing practice** | [theOdinProject](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/testing-practice) | None | [Code](https://github.com/thanh-luan-nguyen/testing-practice) |
+| **cv builder** | [theOdinProject](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/cv-application) | [Preview](https://thanh-luan-nguyen.github.io/cv-builder) | [Code](https://github.com/thanh-luan-nguyen/cv-builder) |
+| **memory card game** | [theOdinProject](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/memory-card) | [Preview](https://thanh-luan-nguyen.github.io/memory-card-game) | [Code](https://github.com/thanh-luan-nguyen/memory-card-game) |
+| **shopping cart** | [theOdinProject](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/shopping-cart) | [Preview](https://thanh-luan-nguyen.github.io/shopping-cart) | [Code](https://github.com/thanh-luan-nguyen/shopping-cart) |
+| **faekbook** | [theOdinProject]() | [Preview](https://thanh-luan-nguyen.github.io/*) | [Code](https://github.com/thanh-luan-nguyen/*) |
 
 - **a responsive website** [demo](https://nguyen-thanh-luan-github.github.io/a-responsive-website-github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/a-responsive-website-github.io)
 
@@ -22,22 +28,6 @@
 - **technical documentation page** [demo](https://nguyen-thanh-luan-github.github.io/technical-documentation-page.github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/technical-documentation-page.github.io)
 
 - **product landing page** [demo](https://nguyen-thanh-luan-github.github.io/product-landing-page.github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/product-landing-page.github.io)
-
-- **etch-a-sketch** [demo](https://nguyen-thanh-luan-github.github.io/etch-a-sketch.github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/etch-a-sketch.github.io)
-
-- **calculator app** [demo](https://nguyen-thanh-luan-github.github.io/calculator-app.github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/calculator-app.github.io)
-
-- **rock paper scissors** [demo](https://nguyen-thanh-luan-github.github.io/rock-paper-scissors.github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/rock-paper-scissors.github.io)
-
-- **tic-tac-toe** [demo](https://nguyen-thanh-luan-github.github.io/tic-tac-toe.github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/tic-tac-toe.github.io)
-
-- **library app** [demo](https://nguyen-thanh-luan-github.github.io/library.github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/library.github.io)
-
-- **restaurant page** [demo](https://nguyen-thanh-luan-github.github.io/restaurant-page.github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/restaurant-page.github.io)
-
-- **to-do-list app** [demo](https://nguyen-thanh-luan-github.github.io/to-do-list.github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/to-do-list.github.io)
-
-- **weather app** demo [code](https://github.com/NGUYEN-THANH-LUAN-github/weather-app.github.io)
 
 <!--
 **thanh-luan-nguyen/thanh-luan-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
