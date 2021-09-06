@@ -5,18 +5,31 @@
 | Project Name | Project Info | Live Preview | Code |
 |:---|:---:|:---:|:---:|
 | **Google homepage** | [theOdinProject](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/html-css) |[Preview](https://thanh-luan-nguyen.github.io/google-homepage) | [Code](https://github.com/thanh-luan-nguyen/google-homepage)|
+
 | **rock paper scissors** | [theOdinPoject](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/rock-paper-scissors) | [Preview](https://thanh-luan-nguyen.github.io/rock-paper-scissors) | [Code](https://github.com/thanh-luan-nguyen/rock-paper-scissors) |
-| **etch-a-sketch** | [theOdinProject](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/etch-a-sketch-project) | [Preview](https://thanh-luan-nguyen.github.io/etch-a-sketch) | [Code](https://github.com/thanh-luan-nguyen/etch-a-sketch.github.io) |
-| **calculator app** | [theOdinProject](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/calculator) | [Preview](https://thanh-luan-nguyen.github.io/calculator-app) | [Code](https://github.com/thanh-luan-nguyen/calculator-app.github.io) |
-| **library app** | [theOdinProject](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/library) | [Preview](https://thanh-luan-nguyen.github.io/library-app) | [Code](https://github.com/thanh-luan-nguyen/library.github.io) |
-| **tic-tac-toe** | [theOdinProject](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/tic-tac-toe) | [Preview](https://thanh-luan-nguyen.github.io/tic-tac-toe) | [Code](https://github.com/thanh-luan-nguyen/tic-tac-toe.github.io) |
-| **restaurant page** | [theOdinProject](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/restaurant-page) | [Preview](https://thanh-luan-nguyen.github.io/restaurant-page) | [Code](https://github.com/thanh-luan-nguyen/restaurant-page.github.io) |
-| **to-do-list app** | [theOdinProject](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/todo-list) | [Preview](https://thanh-luan-nguyen.github.io/to-do-list) | [Code](https://github.com/thanh-luan-nguyen/to-do-list.github.io) |
+
+| **etch-a-sketch** | [theOdinProject](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/etch-a-sketch-project) | [Preview](https://thanh-luan-nguyen.github.io/etch-a-sketch) | [Code](https://github.com/thanh-luan-nguyen/etch-a-sketch) |
+
+| **calculator app** | [theOdinProject](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/calculator) | [Preview](https://thanh-luan-nguyen.github.io/calculator-app) | [Code](https://github.com/thanh-luan-nguyen/calculator-app) |
+
+| **book keeping app** | [theOdinProject](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/library) | [Preview](https://thanh-luan-nguyen.github.io/book-keeping-app) | [Code](https://github.com/thanh-luan-nguyen/book-keeping-app) |
+
+| **tic-tac-toe** | [theOdinProject](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/tic-tac-toe) | [Preview](https://thanh-luan-nguyen.github.io/tic-tac-toe) | [Code](https://github.com/thanh-luan-nguyen/tic-tac-toe) |
+
+| **restaurant page** | [theOdinProject](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/restaurant-page) | [Preview](https://thanh-luan-nguyen.github.io/restaurant-page) | [Code](https://github.com/thanh-luan-nguyen/restaurant-page) |
+
+| **to-do-list app** | [theOdinProject](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/todo-list) | [Preview](https://thanh-luan-nguyen.github.io/to-do-list) | [Code](https://github.com/thanh-luan-nguyen/to-do-list) |
+
 | **weather app** | [theOdinProject](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/weather-app) | [Preview](https://thanh-luan-nguyen.github.io/weather-app) | [Code](https://github.com/thanh-luan-nguyen/weather-app) |
+
 | **unit testing practice** | [theOdinProject](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/testing-practice) | None | [Code](https://github.com/thanh-luan-nguyen/testing-practice) |
+
 | **cv builder** | [theOdinProject](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/cv-application) | [Preview](https://thanh-luan-nguyen.github.io/cv-builder) | [Code](https://github.com/thanh-luan-nguyen/cv-builder) |
+
 | **memory card game** | [theOdinProject](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/memory-card) | [Preview](https://thanh-luan-nguyen.github.io/memory-card-game) | [Code](https://github.com/thanh-luan-nguyen/memory-card-game) |
+
 | **shopping cart** | [theOdinProject](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/shopping-cart) | [Preview](https://thanh-luan-nguyen.github.io/shopping-cart) | [Code](https://github.com/thanh-luan-nguyen/shopping-cart) |
+
 | **faekbook** | [theOdinProject]() | [Preview](https://thanh-luan-nguyen.github.io/*) | [Code](https://github.com/thanh-luan-nguyen/*) |
 
 - **a responsive website** [demo](https://nguyen-thanh-luan-github.github.io/a-responsive-website-github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/a-responsive-website-github.io)
