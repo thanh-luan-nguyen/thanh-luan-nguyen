@@ -2,11 +2,11 @@
 
 > These are all of my projects
 
-| Project Name | Project Info | Live Preview | Code | Preview |
-|:---|:---:|:---:|:---:|:---:|
-| **Google homepage** | [theOdinProject](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/html-css) |[Preview](https://thanh-luan-nguyen.github.io/google-homepage) | [Code](https://github.com/thanh-luan-nguyen/google-homepage)|![preview](https://github.com/thanh-luan-nguyen/my-resume-repository/blob/main/Google%20Homepage.gif)|
-| **rock paper scissors** | [theOdinPoject](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/rock-paper-scissors) | [Preview](https://thanh-luan-nguyen.github.io/rock-paper-scissors) | [Code](https://github.com/thanh-luan-nguyen/rock-paper-scissors) |
-| **etch-a-sketch** | [theOdinProject](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/etch-a-sketch-project) | [Preview](https://thanh-luan-nguyen.github.io/etch-a-sketch) | [Code](https://github.com/thanh-luan-nguyen/etch-a-sketch) |
+| **Project Name** |  **Live Demo** | **Code** | **Preview** |
+|:---|:---:|:---:|:---:|
+| **Google homepage** | [Demo](https://thanh-luan-nguyen.github.io/google-homepage) | [Code](https://github.com/thanh-luan-nguyen/google-homepage)|![](https://github.com/thanh-luan-nguyen/my-resume-repository/blob/main/Google%20Homepage.gif)|
+| **rock paper scissors** | [Demo](https://thanh-luan-nguyen.github.io/rock-paper-scissors) | [Code](https://github.com/thanh-luan-nguyen/rock-paper-scissors) |
+| **etch-a-sketch** |  [Preview](https://thanh-luan-nguyen.github.io/etch-a-sketch) | [Code](https://github.com/thanh-luan-nguyen/etch-a-sketch) |
 | **calculator app** | [theOdinProject](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/calculator) | [Preview](https://thanh-luan-nguyen.github.io/calculator-app) | [Code](https://github.com/thanh-luan-nguyen/calculator-app) |
 | **book keeping app** | [theOdinProject](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/library) | [Preview](https://thanh-luan-nguyen.github.io/book-keeping-app) | [Code](https://github.com/thanh-luan-nguyen/book-keeping-app) |
 | **tic-tac-toe** | [theOdinProject](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/tic-tac-toe) | [Preview](https://thanh-luan-nguyen.github.io/tic-tac-toe) | [Code](https://github.com/thanh-luan-nguyen/tic-tac-toe) |
