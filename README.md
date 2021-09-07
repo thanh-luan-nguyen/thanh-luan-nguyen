@@ -10,6 +10,20 @@
 - **Education**: Ritsumeikan Asia Pacific University (*major*: accounting and finance, *graduation*: 2019 September)
 - **Biography**: 
 
+<a href="https://github.com/thanh-luan-nguyen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanh-luan-nguyen&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/thanh-luan-nguyen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanh-luan-nguyen&layout=compact)" />
+</a>
+
+![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanh-luan-nguyen&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanh-luan-nguyen&layout=compact)
+
+![Luan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thanhluannguyen123)
+
+
 > These are all of my projects
 
 | **Project Name** |  **Live Demo** | **Repo** | **Preview** | 
