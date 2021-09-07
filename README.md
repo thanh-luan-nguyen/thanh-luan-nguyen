@@ -7,7 +7,7 @@
 - **Age** (as of September 2021): 24 years old
 - **Current occupation**: interpretor/translator
 - **Currently residing in**: Fukuoka, Japan 
-- **Education**: Ritsumeikan Asia Pacific University (**major**: accounting and finance, graduation: 2019 September)
+- **Education**: Ritsumeikan Asia Pacific University (*major*: accounting and finance, *graduation*: 2019 September)
 - **Biography**: 
 
 > These are all of my projects
