@@ -2,9 +2,9 @@
 
 > These are all of my projects
 
-| Project Name | Project Info | Live Preview | Code |
-|:---|:---:|:---:|:---:|
-| **Google homepage** | [theOdinProject](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/html-css) |[Preview](https://thanh-luan-nguyen.github.io/google-homepage) | [Code](https://github.com/thanh-luan-nguyen/google-homepage)|
+| Project Name | Project Info | Live Preview | Code | Preview |
+|:---|:---:|:---:|:---:|:---:|
+| **Google homepage** | [theOdinProject](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/html-css) |[Preview](https://thanh-luan-nguyen.github.io/google-homepage) | [Code](https://github.com/thanh-luan-nguyen/google-homepage)|![preview](https://github.com/thanh-luan-nguyen/my-resume-repository/blob/main/Google%20Homepage.gif)|
 | **rock paper scissors** | [theOdinPoject](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/rock-paper-scissors) | [Preview](https://thanh-luan-nguyen.github.io/rock-paper-scissors) | [Code](https://github.com/thanh-luan-nguyen/rock-paper-scissors) |
 | **etch-a-sketch** | [theOdinProject](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/etch-a-sketch-project) | [Preview](https://thanh-luan-nguyen.github.io/etch-a-sketch) | [Code](https://github.com/thanh-luan-nguyen/etch-a-sketch) |
 | **calculator app** | [theOdinProject](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/calculator) | [Preview](https://thanh-luan-nguyen.github.io/calculator-app) | [Code](https://github.com/thanh-luan-nguyen/calculator-app) |
