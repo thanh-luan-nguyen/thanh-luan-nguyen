@@ -10,20 +10,15 @@
 - **Education**: Ritsumeikan Asia Pacific University (*major*: accounting and finance, *graduation*: 2019 September)
 - **Biography**: 
 
-<a href="https://github.com/thanh-luan-nguyen">
+> 🇯🇵
+
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanh-luan-nguyen&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/thanh-luan-nguyen">
+</p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanh-luan-nguyen&layout=compact)" />
-</a>
-
-![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanh-luan-nguyen&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanh-luan-nguyen&layout=compact)
-
-![Luan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thanhluannguyen123)
-
-
+</p>
+  
 > These are all of my projects
 
 | **Project Name** |  **Live Demo** | **Repo** | **Preview** | 
@@ -52,14 +47,3 @@
 - **technical documentation page** [demo](https://nguyen-thanh-luan-github.github.io/technical-documentation-page.github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/technical-documentation-page.github.io)
 
 - **product landing page** [demo](https://nguyen-thanh-luan-github.github.io/product-landing-page.github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/product-landing-page.github.io)
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
