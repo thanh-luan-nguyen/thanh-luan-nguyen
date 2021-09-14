@@ -12,17 +12,13 @@
 
 > 🇯🇵
 
-<a href="https://github.com/thanh-luan-nguyen">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanh-luan-nguyen&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/thanh-luan-nguyen">
+</p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanh-luan-nguyen&layout=compact)" />
-</a>
-
-![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanh-luan-nguyen&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanh-luan-nguyen&layout=compact)
-
+</p>
+  
 > These are all of my projects
 
 | **Project Name** |  **Live Demo** | **Repo** | **Preview** | 
