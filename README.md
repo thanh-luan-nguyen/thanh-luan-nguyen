@@ -19,7 +19,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanh-luan-nguyen&layout=compact)" />
 </p>
   
-> These are all of my projects
+> These are my projects from the the odin project <p><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/theOdinProject.png" alt="foo" title="title" /></p>
 
 | **Project Name** |  **Live Demo** | **Code** | **Preview** | 
 |:---|:---:|:---:|:---:|
@@ -38,6 +38,9 @@
 | **shopping cart** | [Demo](https://thanh-luan-nguyen.github.io/shopping-cart) | [Code](https://github.com/thanh-luan-nguyen/shopping-cart) |![preview]()
 | **faekbook** | [Demo](https://thanh-luan-nguyen.github.io/*) | [Code](https://github.com/thanh-luan-nguyen/*) |![preview]()
 
+### Other Projects
+
+| **Project Name** |  **Live Demo** | **Code** | **Preview** | 
 - **a responsive website** [demo](https://nguyen-thanh-luan-github.github.io/a-responsive-website-github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/a-responsive-website-github.io)
 
 - **survey form** [demo](https://nguyen-thanh-luan-github.github.io/survey-form.github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/survey-form.github.io)
