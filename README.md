@@ -19,7 +19,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanh-luan-nguyen&layout=compact)" />
 </p>
   
-> These are my projects from the the odin project <p><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/theOdinProject.png" alt="foo" title="title" /></p>
+> These are my projects from the the [odin project](https://www.theodinproject.com/dashboard) <p><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/theOdinProject.png" alt="foo" title="title" /></p>
 
 | **Project Name** |  **Live Demo** | **Code** | **Preview** | 
 |:---|:---:|:---:|:---:|
