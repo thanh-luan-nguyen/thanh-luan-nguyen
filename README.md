@@ -9,7 +9,10 @@
 - **Currently residing in**: Fukuoka, Japan 
 - **Education**: Ritsumeikan Asia Pacific University (*major*: accounting and finance, *graduation*: 2019 September)
 - **Biography**: 
-
+I started learning web development from 2020 December, on a platform called Coursera. I finished the course on **February 17, 2021**.
+<p align="center">
+  <img align="center" src="https://github.com/thanh-luan-nguyen/html-css-javascript-for-web-developers/blob/main/certificate-of-completion.jpg" />
+</p>
 > 🇯🇵
 
 <p align="center">
@@ -19,7 +22,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanh-luan-nguyen&layout=compact)" />
 </p>
   
-> These are all of my projects
+> These are my projects from the the [odin project](https://www.theodinproject.com/dashboard) <p><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/theOdinProject.png" alt="foo" title="title" /></p>
 
 | **Project Name** |  **Live Demo** | **Code** | **Preview** | 
 |:---|:---:|:---:|:---:|
@@ -32,12 +35,15 @@
 | **restaurant page** | [Demo](https://thanh-luan-nguyen.github.io/restaurant-page) | [Code](https://github.com/thanh-luan-nguyen/restaurant-page) |![preview](https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Mellandi%20Caravan.gif)
 | **to-do-list app** |  [Demo](https://thanh-luan-nguyen.github.io/to-do-list) | [Code](https://github.com/thanh-luan-nguyen/to-do-list) |![preview](https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/to-do-list.gif)
 | **weather app** |  [Demo](https://thanh-luan-nguyen.github.io/weather-app) | [Code](https://github.com/thanh-luan-nguyen/weather-app) |![preview](https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Weather%20App.gif)
-| **unit testing practice** | `null` | [Code](https://github.com/thanh-luan-nguyen/testing-practice) |![preview]()
+| **unit testing practice** | `null` | [Code](https://github.com/thanh-luan-nguyen/testing-practice) |`null`
 | **cv builder** | [Demo](https://thanh-luan-nguyen.github.io/cv-builder) | [Code](https://github.com/thanh-luan-nguyen/cv-builder) |![preview]()
 | **memory card game** | [Demo](https://thanh-luan-nguyen.github.io/memory-card-game) | [Code](https://github.com/thanh-luan-nguyen/memory-card-game) |![preview]()
 | **shopping cart** | [Demo](https://thanh-luan-nguyen.github.io/shopping-cart) | [Code](https://github.com/thanh-luan-nguyen/shopping-cart) |![preview]()
 | **faekbook** | [Demo](https://thanh-luan-nguyen.github.io/*) | [Code](https://github.com/thanh-luan-nguyen/*) |![preview]()
 
+### Other Projects
+
+| **Project Name** |  **Live Demo** | **Code** | **Preview** | 
 - **a responsive website** [demo](https://nguyen-thanh-luan-github.github.io/a-responsive-website-github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/a-responsive-website-github.io)
 
 - **survey form** [demo](https://nguyen-thanh-luan-github.github.io/survey-form.github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/survey-form.github.io)
