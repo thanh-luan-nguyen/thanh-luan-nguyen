@@ -7,14 +7,15 @@
 - **Country of birth**: Vietnam
 - **Date of birth**: January 18, 1997 
 - **Currently residing in**: Fukuoka, Japan 
-- **Autobiography**: 
-I started learning web development from 2020 December, on a platform called Coursera. My [certificate of completion](https://github.com/thanh-luan-nguyen/html-css-javascript-for-web-developers/) 👈. After that,
 
 > 日本語 &nbsp; &nbsp;🇯🇵
 - **名前**：NGUYEN THANH LUAN
 - **国籍**：ベトナム
 - **生年月日**：1997年2月18日
 - **現在のお住まい**：日本、福岡市
+
+- **Autobiography**: 
+I started learning web development from 2020 December, on a platform called Coursera. My [certificate of completion](https://github.com/thanh-luan-nguyen/html-css-javascript-for-web-developers/) 👈
 
 <h3>Github activities</h3>
 <p align="center">
@@ -23,30 +24,30 @@ I started learning web development from 2020 December, on a platform called Cour
 </p>
   
 <h3>Things I code with</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-red?style=flat-square&logo=firebase&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f5dd42?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-ff8921?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-<!--   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /> -->
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
+![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass&logoColor=1572B6)&nbsp;
+![Prettier](https://img.shields.io/badge/-Prettier-05122A?style=flat&logo=prettier&logoColor=1572B6)&nbsp;
+![ESLint](https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=eslint&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styled-components)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+<!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp; -->
+![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)&nbsp;
+![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <h3>Open source projects</h3>
-⭐ These are my projects from [The Odin Project](https://www.theodinproject.com/dashboard) &nbsp; &nbsp; <img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/theOdinProject.png" style="height: 100px;"/>
+⭐ These are my projects from <a href="https://www.theodinproject.com/dashboard">The Odin Project</a>&nbsp; &nbsp;<img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/theOdinProject.png" style="height: 100px;"/>
 
-<img src="" height=250/>
-
-| **Project Name** |  **Live Demo** | **Code** | **Preview** | 
+| <h3>Project Name</h3> |  <h3>Live Demo</h3> | <h3>Code</h3> | <h3>Preview</h3> | 
 |:---|:---:|:---:|:---:|
 | **Google homepage** | [Demo](https://thanh-luan-nguyen.github.io/google-homepage) | [Code](https://github.com/thanh-luan-nguyen/google-homepage)|<img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Google%20Homepage.gif" height=250/>
 | **rock paper scissors** | [Demo](https://thanh-luan-nguyen.github.io/rock-paper-scissors) | [Code](https://github.com/thanh-luan-nguyen/rock-paper-scissors) |<img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Rock%20Paper%20Scissors.gif" height=250/>
