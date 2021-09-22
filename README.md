@@ -8,10 +8,7 @@
 - **Date of birth**: January 18, 1997 
 - **Currently residing in**: Fukuoka, Japan 
 - **Autobiography**: 
-I started learning web development from 2020 December, on a platform called Coursera. My certificate of completion 👇
-<p align="center">
-  <img align="center" src="https://github.com/thanh-luan-nguyen/html-css-javascript-for-web-developers/blob/main/certificate-of-completion.jpg" height=300/>
-</p>
+I started learning web development from 2020 December, on a platform called Coursera. My [certificate of completion](https://github.com/thanh-luan-nguyen/html-css-javascript-for-web-developers/) 👈. After that,
 
 > 日本語 &nbsp; &nbsp;🇯🇵
 - **名前**：NGUYEN THANH LUAN
@@ -28,6 +25,7 @@ I started learning web development from 2020 December, on a platform called Cour
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-red?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f5dd42?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -43,26 +41,27 @@ I started learning web development from 2020 December, on a platform called Cour
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h2>Open source projects</h2>
-
+<h3>Open source projects</h3>
 ⭐ These are my projects from [The Odin Project](https://www.theodinproject.com/dashboard) &nbsp; &nbsp; <img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/theOdinProject.png" style="height: 100px;"/>
+
+<img src="" height=250/>
 
 | **Project Name** |  **Live Demo** | **Code** | **Preview** | 
 |:---|:---:|:---:|:---:|
-| **Google homepage** | [Demo](https://thanh-luan-nguyen.github.io/google-homepage) | [Code](https://github.com/thanh-luan-nguyen/google-homepage)|![preview](https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Google%20Homepage.gif)|  
-| **rock paper scissors** | [Demo](https://thanh-luan-nguyen.github.io/rock-paper-scissors) | [Code](https://github.com/thanh-luan-nguyen/rock-paper-scissors) |![preview](https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Rock%20Paper%20Scissors.gif)
-| **etch-a-sketch** |  [Demo](https://thanh-luan-nguyen.github.io/etch-a-sketch) | [Code](https://github.com/thanh-luan-nguyen/etch-a-sketch) |![preview](https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/etch-a-sketch.gif)
-| **calculator app**  | [Demo](https://thanh-luan-nguyen.github.io/calculator-app) | [Code](https://github.com/thanh-luan-nguyen/calculator-app) |![preview](https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Calculator.gif)
-| **book keeping app** | [Demo](https://thanh-luan-nguyen.github.io/book-keeping-app) | [Code](https://github.com/thanh-luan-nguyen/book-keeping-app) |![preview](https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Library.gif)
-| **tic-tac-toe** |  [Demo](https://thanh-luan-nguyen.github.io/tic-tac-toe) | [Code](https://github.com/thanh-luan-nguyen/tic-tac-toe) |![preview](https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/TicTacToe.gif)
-| **restaurant page** | [Demo](https://thanh-luan-nguyen.github.io/restaurant-page) | [Code](https://github.com/thanh-luan-nguyen/restaurant-page) |![preview](https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Mellandi%20Caravan.gif)
-| **to-do-list app** |  [Demo](https://thanh-luan-nguyen.github.io/to-do-list) | [Code](https://github.com/thanh-luan-nguyen/to-do-list) |![preview](https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/to-do-list.gif)
-| **weather app** |  [Demo](https://thanh-luan-nguyen.github.io/weather-app) | [Code](https://github.com/thanh-luan-nguyen/weather-app) |![preview](https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Weather%20App.gif)
+| **Google homepage** | [Demo](https://thanh-luan-nguyen.github.io/google-homepage) | [Code](https://github.com/thanh-luan-nguyen/google-homepage)|<img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Google%20Homepage.gif" height=250/>
+| **rock paper scissors** | [Demo](https://thanh-luan-nguyen.github.io/rock-paper-scissors) | [Code](https://github.com/thanh-luan-nguyen/rock-paper-scissors) |<img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Rock%20Paper%20Scissors.gif" height=250/>
+| **etch-a-sketch** |  [Demo](https://thanh-luan-nguyen.github.io/etch-a-sketch) | [Code](https://github.com/thanh-luan-nguyen/etch-a-sketch) |<img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/etch-a-sketch.gif" height=250/>
+| **calculator app**  | [Demo](https://thanh-luan-nguyen.github.io/calculator-app) | [Code](https://github.com/thanh-luan-nguyen/calculator-app) |<img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Calculator.gif" height=250/>
+| **book keeping app** | [Demo](https://thanh-luan-nguyen.github.io/book-keeping-app) | [Code](https://github.com/thanh-luan-nguyen/book-keeping-app) |<img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Library.gif" height=300/>
+| **tic-tac-toe** |  [Demo](https://thanh-luan-nguyen.github.io/tic-tac-toe) | [Code](https://github.com/thanh-luan-nguyen/tic-tac-toe) |<img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/TicTacToe.gif" height=250/>
+| **restaurant page** | [Demo](https://thanh-luan-nguyen.github.io/restaurant-page) | [Code](https://github.com/thanh-luan-nguyen/restaurant-page) |<img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Mellandi%20Caravan.gif" height=250/>
+| **to-do-list app** |  [Demo](https://thanh-luan-nguyen.github.io/to-do-list) | [Code](https://github.com/thanh-luan-nguyen/to-do-list) |<img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Todo%20List.gif" height=250/>
+| **weather app** |  [Demo](https://thanh-luan-nguyen.github.io/weather-app) | [Code](https://github.com/thanh-luan-nguyen/weather-app) |<img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Weather%20App.gif" height=250/>
 | **unit testing practice** | `null` | [Code](https://github.com/thanh-luan-nguyen/testing-practice) |`null`
-| **cv builder** | [Demo](https://thanh-luan-nguyen.github.io/cv-builder) | [Code](https://github.com/thanh-luan-nguyen/cv-builder) |![preview](https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/CV%20Builder.gif)
-| **memory card game** | [Demo](https://thanh-luan-nguyen.github.io/memory-card-game) | [Code](https://github.com/thanh-luan-nguyen/memory-card-game) |![preview](https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Memory%20Card.gif)
-| **shopping cart** | [Demo](https://thanh-luan-nguyen.github.io/shopping-cart) | [Code](https://github.com/thanh-luan-nguyen/shopping-cart) |![preview](https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Shopping%20Cart.gif)
-| **faekbook** | [Demo](https://thanh-luan-nguyen.github.io/faekbook) | [Code](https://github.com/thanh-luan-nguyen/faekbook) |![preview]()
+| **cv builder** | [Demo](https://thanh-luan-nguyen.github.io/cv-builder) | [Code](https://github.com/thanh-luan-nguyen/cv-builder) |<img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/CV%20Builder.gif" height=250/>
+| **memory card game** | [Demo](https://thanh-luan-nguyen.github.io/memory-card-game) | [Code](https://github.com/thanh-luan-nguyen/memory-card-game) |<img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Memory%20Card.gif" height=250/>
+| **shopping cart** | [Demo](https://thanh-luan-nguyen.github.io/shopping-cart) | [Code](https://github.com/thanh-luan-nguyen/shopping-cart) |<img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Shopping%20Cart.gif" height=250/>
+| **faekbook** | [Demo](https://thanh-luan-nguyen.github.io/faekbook) | [Code](https://github.com/thanh-luan-nguyen/faekbook) |<img src="" height=250/>
 
 ### Other Projects
 
