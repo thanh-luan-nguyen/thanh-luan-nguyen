@@ -4,8 +4,6 @@
 <div align="center">🌱 I'm currently learning web development, mainly using frontend framework such as React.</div>
 <div align="center">🌱 I am looking to become a full-time web developer.</div>
 
-
-
 ## 💼 Brief personal infos
 - **Country of origin**: Vietnam
 - **Date of birth**: January 18, 1997 
@@ -16,8 +14,6 @@
 <a href="https://www.udemy.com/"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/udemy.png" height=100/></a>
 <a href="https://www.freecodecamp.org/learn/"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/freeCodeCamp.png" height=100/></a>
 <a href="https://www.theodinproject.com/dashboard"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/theOdinProject.png" height=100/></a>
-
-
 
 ## 🛠️ Tools I code with
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
@@ -40,44 +36,139 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## 📈 Github activities
-<p align="center">
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanh-luan-nguyen&layout=compact)" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanh-luan-nguyen&show_icons=true&theme=tokyonight" />
 </p>
   
 ## 🗃️ Open source projects
-> <a href="https://www.coursera.org/"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/coursera.png" height=100/></a>
+<p align="center">
+  <a href="https://www.freecodecamp.org/learn/"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/freeCodeCamp.png" height=100/></a>
+</p>
+<table align="center">
+   <tr>
+     <td colspan=4><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Google%20Homepage.gif"/></td>
+     <td colspan=4><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Rock%20Paper%20Scissors.gif"/></td>
+     <td colspan=4><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/etch-a-sketch.gif"/></td>
+   </tr>
+   <tr>
+     <td colspan=4 align="center"><b>Google homepage</b></td>
+     <td colspan=4 align="center"><b>rock paper scissors</b></td>
+     <td colspan=4 align="center"><b>etch a sketch</b></td>
+   </tr>
+   <tr>
+     <td colspan=2 align="center"><a href="https://thanh-luan-nguyen.github.io/google-homepage">🧱&nbsp Demo</a></td>
+     <td colspan=2 align="center"><a href="https://github.com/thanh-luan-nguyen/google-homepage">⚙️&nbsp Code</a></td>
+     <td colspan=2 align="center"><a href="https://thanh-luan-nguyen.github.io/rock-paper-scissors">🧱&nbsp Demo</a></td>
+     <td colspan=2 align="center"><a href="https://github.com/thanh-luan-nguyen/rock-paper-scissors">⚙️&nbsp Code</a></td>
+     <td colspan=2 align="center"><a href="https://thanh-luan-nguyen.github.io/etch-a-sketch">🧱&nbsp Demo</a></td>
+     <td colspan=2 align="center"><a href="https://github.com/thanh-luan-nguyen/etch-a-sketch">⚙️&nbsp Code</a></td>
+  </tr>
+  <tr>
+     <td colspan=6><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Calculator.gif"/></td>
+     <td colspan=6><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Library.gif"/></td>
+  </tr>
+   <tr>
+     <td colspan=6 align="center"><b>calculator app</b></td>
+     <td colspan=6 align="center"><b>book keeping app</b></td>
+   </tr>
+   <tr>
+     <td colspan=3 align="center"><a href="https://thanh-luan-nguyen.github.io/calculator-app">🧱&nbsp Demo</a></td>
+     <td colspan=3 align="center"><a href="https://github.com/thanh-luan-nguyen/calculator-app">⚙️&nbsp Code</a></td>
+     <td colspan=3 align="center"><a href="https://thanh-luan-nguyen.github.io/book-keeping-app">🧱&nbsp Demo</a></td>
+     <td colspan=3 align="center"><a href="https://github.com/thanh-luan-nguyen/book-keeping-app">⚙️&nbsp Code</a></td>
+  </tr>
+</table>
 
-My [certificate of completion](https://github.com/thanh-luan-nguyen/html-css-javascript-for-web-developers/) 👈
 
-> <a href="https://www.theodinproject.com/dashboard"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/theOdinProject.png" height=100/></a>
+<p align="center">
+  <a href="https://www.theodinproject.com/dashboard"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/theOdinProject.png" height=100/></a>
+</p>
+<table align="center">
+   <tr>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Google%20Homepage.gif"/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Rock%20Paper%20Scissors.gif"/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/etch-a-sketch.gif"/></td>
+   </tr>
+   <tr>
+     <td colspan=2 align="center"><b>Google homepage</b></td>
+     <td colspan=2 align="center"><b>rock paper scissors</b></td>
+     <td colspan=2 align="center"><b>etch a sketch</b></td>
+   </tr>
+   <tr>
+     <td align="center"><a href="https://thanh-luan-nguyen.github.io/google-homepage">🧱&nbsp Demo</a></td>
+     <td align="center"><a href="https://github.com/thanh-luan-nguyen/google-homepage">⚙️&nbsp Code</a></td>
+     <td align="center"><a href="https://thanh-luan-nguyen.github.io/rock-paper-scissors">🧱&nbsp Demo</a></td>
+     <td align="center"><a href="https://github.com/thanh-luan-nguyen/rock-paper-scissors">⚙️&nbsp Code</a></td>
+     <td align="center"><a href="https://thanh-luan-nguyen.github.io/etch-a-sketch">🧱&nbsp Demo</a></td>
+     <td align="center"><a href="https://github.com/thanh-luan-nguyen/etch-a-sketch">⚙️&nbsp Code</a></td>
+  </tr>
+  <tr>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Calculator.gif"/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Library.gif"/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/TicTacToe.gif"/></td>
+   </tr>
+   <tr>
+     <td colspan=2 align="center"><b>calculator app</b></td>
+     <td colspan=2 align="center"><b>book keeping app</b></td>
+     <td colspan=2 align="center"><b>tic-tac-toe</b></td>
+   </tr>
+   <tr>
+     <td align="center"><a href="https://thanh-luan-nguyen.github.io/calculator-app">🧱&nbsp Demo</a></td>
+     <td align="center"><a href="https://github.com/thanh-luan-nguyen/calculator-app">⚙️&nbsp Code</a></td>
+     <td align="center"><a href="https://thanh-luan-nguyen.github.io/book-keeping-app">🧱&nbsp Demo</a></td>
+     <td align="center"><a href="https://github.com/thanh-luan-nguyen/book-keeping-app">⚙️&nbsp Code</a></td>
+     <td align="center"><a href="https://thanh-luan-nguyen.github.io/tic-tac-toe">🧱&nbsp Demo</a></td>
+     <td align="center"><a href="https://github.com/thanh-luan-nguyen/tic-tac-toe">⚙️&nbsp Code</a></td>
+  </tr>
+  <tr>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Mellandi%20Caravan.gif"/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Todo%20List.gif"/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Weather%20App.gif"/></td>
+   </tr>
+   <tr>
+     <td colspan=2 align="center"><b>restaurant page</b></td>
+     <td colspan=2 align="center">todolist app<b></b></td>
+     <td colspan=2 align="center"><b>weather app</b></td>
+   </tr>
+   <tr>
+     <td align="center"><a href="https://thanh-luan-nguyen.github.io/restaurant-page">🧱&nbsp Demo</a></td>
+     <td align="center"><a href="https://github.com/thanh-luan-nguyen/restaurant-page">⚙️&nbsp Code</a></td>
+     <td align="center"><a href="https://thanh-luan-nguyen.github.io/to-do-list">🧱&nbsp Demo</a></td>
+     <td align="center"><a href="https://github.com/thanh-luan-nguyen/to-do-list">⚙️&nbsp Code</a></td>
+     <td align="center"><a href="https://thanh-luan-nguyen.github.io/weather-app">🧱&nbsp Demo</a></td>
+     <td align="center"><a href="https://github.com/thanh-luan-nguyen/weather-app">⚙️&nbsp Code</a></td>
+  </tr>
+  <tr>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/CV%20Builder.gif"/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Memory%20Card.gif"/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Shopping%20Cart.gif"/></td>
+   </tr>
+   <tr>
+     <td colspan=2 align="center"><b>cv-builder</b></td>
+     <td colspan=2 align="center"><b>memory card game</b></td>
+     <td colspan=2 align="center"><b>shopping cart</b></td>
+   </tr>
+   <tr>
+     <td align="center"><a href="https://thanh-luan-nguyen.github.io/cv-builder">🧱&nbsp Demo</a></td>
+     <td align="center"><a href="https://github.com/thanh-luan-nguyen/cv-builder">⚙️&nbsp Code</a></td>
+     <td align="center"><a href="https://thanh-luan-nguyen.github.io/memory-card-game">🧱&nbsp Demo</a></td>
+     <td align="center"><a href="https://github.com/thanh-luan-nguyen/memory-card-game">⚙️&nbsp Code</a></td>
+     <td align="center"><a href="https://thanh-luan-nguyen.github.io/shopping-cart">🧱&nbsp Demo</a></td>
+     <td align="center"><a href="https://github.com/thanh-luan-nguyen/shopping-cart">⚙️&nbsp Code</a></td>
+  </tr>
+</table>
 
-| <h3>Project Name</h3> |  <h3>Live Demo</h3> | <h3>Code</h3> | <h3>Preview</h3> | 
-|:---|:---:|:---:|:---:|
-| **Google homepage** | [Demo](https://thanh-luan-nguyen.github.io/google-homepage) | [Code](https://github.com/thanh-luan-nguyen/google-homepage)|<img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Google%20Homepage.gif" height=200/>
-| **rock paper scissors** | [Demo](https://thanh-luan-nguyen.github.io/rock-paper-scissors) | [Code](https://github.com/thanh-luan-nguyen/rock-paper-scissors) |<img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Rock%20Paper%20Scissors.gif" height=200/>
-| **etch-a-sketch** |  [Demo](https://thanh-luan-nguyen.github.io/etch-a-sketch) | [Code](https://github.com/thanh-luan-nguyen/etch-a-sketch) |<img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/etch-a-sketch.gif" height=200/>
-| **calculator app**  | [Demo](https://thanh-luan-nguyen.github.io/calculator-app) | [Code](https://github.com/thanh-luan-nguyen/calculator-app) |<img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Calculator.gif" height=200/>
-| **book keeping app** | [Demo](https://thanh-luan-nguyen.github.io/book-keeping-app) | [Code](https://github.com/thanh-luan-nguyen/book-keeping-app) |<img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Library.gif" height=200/>
-| **tic-tac-toe** |  [Demo](https://thanh-luan-nguyen.github.io/tic-tac-toe) | [Code](https://github.com/thanh-luan-nguyen/tic-tac-toe) |<img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/TicTacToe.gif" height=200/>
-| **restaurant page** | [Demo](https://thanh-luan-nguyen.github.io/restaurant-page) | [Code](https://github.com/thanh-luan-nguyen/restaurant-page) |<img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Mellandi%20Caravan.gif" height=200/>
-| **to-do-list app** |  [Demo](https://thanh-luan-nguyen.github.io/to-do-list) | [Code](https://github.com/thanh-luan-nguyen/to-do-list) |<img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Todo%20List.gif" height=200/>
-| **weather app** |  [Demo](https://thanh-luan-nguyen.github.io/weather-app) | [Code](https://github.com/thanh-luan-nguyen/weather-app) |<img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Weather%20App.gif" height=200/>
-| **unit testing practice** | `null` | [Code](https://github.com/thanh-luan-nguyen/testing-practice) |`null`
-| **cv builder** | [Demo](https://thanh-luan-nguyen.github.io/cv-builder) | [Code](https://github.com/thanh-luan-nguyen/cv-builder) |<img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/CV%20Builder.gif" height=200/>
-| **memory card game** | [Demo](https://thanh-luan-nguyen.github.io/memory-card-game) | [Code](https://github.com/thanh-luan-nguyen/memory-card-game) |<img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Memory%20Card.gif" height=200/>
-| **shopping cart** | [Demo](https://thanh-luan-nguyen.github.io/shopping-cart) | [Code](https://github.com/thanh-luan-nguyen/shopping-cart) |<img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Shopping%20Cart.gif" height=200/>
-| **faekbook** | [Demo](https://thanh-luan-nguyen.github.io/faekbook) | [Code](https://github.com/thanh-luan-nguyen/faekbook) |<img src="" height=250/>
+<a href="https://github.com/thanh-luan-nguyen/testing-practice">unit testing practice</a>
 
-### Other Projects
-
+<!-- ### Other Projects
 | **Project Name** |  **Live Demo** | **Code** | **Preview** | 
 - **a responsive website** [demo](https://nguyen-thanh-luan-github.github.io/a-responsive-website-github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/a-responsive-website-github.io)
-
 - **survey form** [demo](https://nguyen-thanh-luan-github.github.io/survey-form.github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/survey-form.github.io)
-
 - **tribute page** [demo](https://nguyen-thanh-luan-github.github.io/tribute-page.github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/tribute-page.github.io)
-
 - **technical documentation page** [demo](https://nguyen-thanh-luan-github.github.io/technical-documentation-page.github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/technical-documentation-page.github.io)
+- **product landing page** [demo](https://nguyen-thanh-luan-github.github.io/product-landing-page.github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/product-landing-page.github.io) -->
 
-- **product landing page** [demo](https://nguyen-thanh-luan-github.github.io/product-landing-page.github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/product-landing-page.github.io)
+<!-- <a href="https://www.coursera.org/"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/coursera.png" height=100/></a>
+
+My [certificate of completion](https://github.com/thanh-luan-nguyen/html-css-javascript-for-web-developers/) 👈 -->
