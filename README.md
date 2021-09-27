@@ -65,18 +65,20 @@
      <td colspan=2 align="center"><a href="https://github.com/thanh-luan-nguyen/etch-a-sketch">⚙️&nbsp Code</a></td>
   </tr>
   <tr>
-     <td colspan=6><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Calculator.gif"/></td>
-     <td colspan=6><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Library.gif"/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Calculator.gif"/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Library.gif"/></td>
   </tr>
+</table>
+<table align="center">
    <tr>
-     <td colspan=6 align="center"><b>calculator app</b></td>
-     <td colspan=6 align="center"><b>book keeping app</b></td>
+     <td colspan=2 align="center"><b>calculator app</b></td>
+     <td colspan=2 align="center"><b>book keeping app</b></td>
    </tr>
    <tr>
-     <td colspan=3 align="center"><a href="https://thanh-luan-nguyen.github.io/calculator-app">🧱&nbsp Demo</a></td>
-     <td colspan=3 align="center"><a href="https://github.com/thanh-luan-nguyen/calculator-app">⚙️&nbsp Code</a></td>
-     <td colspan=3 align="center"><a href="https://thanh-luan-nguyen.github.io/book-keeping-app">🧱&nbsp Demo</a></td>
-     <td colspan=3 align="center"><a href="https://github.com/thanh-luan-nguyen/book-keeping-app">⚙️&nbsp Code</a></td>
+     <td colspan=1 align="center"><a href="https://thanh-luan-nguyen.github.io/calculator-app">🧱&nbsp Demo</a></td>
+     <td colspan=1 align="center"><a href="https://github.com/thanh-luan-nguyen/calculator-app">⚙️&nbsp Code</a></td>
+     <td colspan=1 align="center"><a href="https://thanh-luan-nguyen.github.io/book-keeping-app">🧱&nbsp Demo</a></td>
+     <td colspan=1 align="center"><a href="https://github.com/thanh-luan-nguyen/book-keeping-app">⚙️&nbsp Code</a></td>
   </tr>
 </table>
 
