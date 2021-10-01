@@ -54,38 +54,39 @@
      <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/etch-a-sketch.gif" width=300/></td>
    </tr>
    <tr>
-     <td colspan=2 align="center"><b>Google homepage</b></td>
-     <td colspan=2 align="center"><b>rock paper scissors</b></td>
-     <td colspan=2 align="center"><b>etch a sketch</b></td>
+     <td colspan=2 align="center"><b>survey form</b></td>
+     <td colspan=2 align="center"><b>tribute page</b></td>
+     <td colspan=2 align="center"><b>technical documentation page</b></td>
    </tr>
    <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/google-homepage">Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/google-homepage">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/rock-paper-scissors">Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/rock-paper-scissors">Code</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/survey-form/">Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/survey-form">Code</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/tribute-page/">Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/tribute-page">Code</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/technical-documentation-page/">Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/technical-documentation-page">Code</a></td>
+  </tr>
+</table>
+<table align="center">
+    <tr>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Google%20Homepage.gif" width=300/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Rock%20Paper%20Scissors.gif" width=300/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/etch-a-sketch.gif" width=300/></td>
+   </tr>
+   <tr>
+     <td colspan=2 align="center"><b>expanding cards</b></td>
+     <td colspan=2 align="center"><b>product landing page</b></td>
+     <td colspan=2 align="center"><b>random quote machine</b></td>
+   </tr>
+   <tr>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/expanding-cards/">Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/expanding-cards">Code</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/product-landing-page/">Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/product-landing-page">Code</a></td>
      <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/etch-a-sketch">Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/etch-a-sketch">Code</a></td>
   </tr>
 </table>
-<table align="center">
-   <tr>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Calculator.gif" width=450/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Library.gif" width=450/></td>
-  </tr>
-   <tr>
-     <td colspan=2 align="center"><b>calculator app</b></td>
-     <td colspan=2 align="center"><b>book keeping app</b></td>
-   </tr>
-   <tr>
-     <td colspan=1 align="center"><a href="https://thanh-luan-nguyen.github.io/calculator-app">🧱&nbsp Demo</a></td>
-     <td colspan=1 align="center"><a href="https://github.com/thanh-luan-nguyen/calculator-app">⚙️&nbsp Code</a></td>
-     <td colspan=1 align="center"><a href="https://thanh-luan-nguyen.github.io/book-keeping-app">🧱&nbsp Demo</a></td>
-     <td colspan=1 align="center"><a href="https://github.com/thanh-luan-nguyen/book-keeping-app">⚙️&nbsp Code</a></td>
-  </tr>
-</table>
-
-
-
 
 <p align="center">
   <a href="https://www.theodinproject.com/dashboard"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/theOdinProject.png" height=100/></a>
@@ -99,15 +100,15 @@
    <tr>
      <td colspan=2 align="center"><b>Google homepage</b></td>
      <td colspan=2 align="center"><b>rock paper scissors</b></td>
-     <td colspan=2 align="center"><b>etch a sketch</b></td>
+     <td colspan=2 align="center"><b>random quote machine</b></td>
    </tr>
    <tr>
      <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/google-homepage">Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/google-homepage">Code</a></td>
      <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/rock-paper-scissors">Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/rock-paper-scissors">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/etch-a-sketch">Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/etch-a-sketch">Code</a></td>
+     <td align="center">🧱&nbsp <a href="https://ld6mk.csb.app/">Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://codesandbox.io/s/random-quote-machine-ld6mk">Code</a></td>
   </tr>
 </table>
 <table align="center">
