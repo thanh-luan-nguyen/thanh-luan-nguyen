@@ -83,8 +83,8 @@
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/expanding-cards">Code</a></td>
      <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/product-landing-page/">Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/product-landing-page">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/etch-a-sketch">Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/etch-a-sketch">Code</a></td>
+     <td align="center">🧱&nbsp <a href="https://mtdmo.csb.app/">Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://codesandbox.io/s/random-quote-machine-mtdmo">Code</a></td>
   </tr>
 </table>
 
