@@ -49,9 +49,9 @@
 </p>
 <table align="center">
     <tr>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Google%20Homepage.gif" width=300/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Rock%20Paper%20Scissors.gif" width=300/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/etch-a-sketch.gif" width=300/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Survey%20Form.gif" width=300/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Tribute%20Page.gif" width=300/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Technical%20Documentation%20Page.gif" width=300/></td>
    </tr>
    <tr>
      <td colspan=2 align="center"><b>survey form</b></td>
@@ -69,9 +69,9 @@
 </table>
 <table align="center">
     <tr>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Google%20Homepage.gif" width=300/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Rock%20Paper%20Scissors.gif" width=300/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/etch-a-sketch.gif" width=300/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Expanding%20Cards.gif" width=300/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Product%20Landing%20Page.gif" width=300/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/Random%20Quote%20Machine.gif" width=300/></td>
    </tr>
    <tr>
      <td colspan=2 align="center"><b>expanding cards</b></td>
