@@ -8,7 +8,24 @@
 - **Country of origin**: Vietnam
 - **Date of birth**: January 18, 1997 
 - **Currently residing in**: Fukuoka, Japan 
-- **My learning platforms**:
+
+現在、私は外国人技能実習生監理団体で通訳・翻訳の業務に勤めています。キャリアチェンジを目指しているため、プログラミング及びウェブ開発の勉強を始めました。
+
+Currently, I am working as an interpreter and translator at a foreign technical intern trainee supervision organization. With the purpose of a career change in mind, I started learning programming as well as web development.
+
+学習歴史の概要：
+
+- 大規模公開オンライン講座（Udemy、Coursera)
+- プロジェクト型学習プラットフォーム（The Odin Project, freeCodeCamp)
+- 実践的コーディングプラットフォーム (Codewars, Codecademy)
+- よく使う参考資料ははMDN Web Docs、オンライン専門的文書、Stack Overflow、Youtube等
+
+My brief history of learning:
+
+- MOOC courses (Udemy, Coursera)
+- Project-based Learning Platforms (The Odin Project, freeCodeCamp)
+- Hands-on Coding Platforms (Codewars, Codecademy)
+- My main reference sources are the MDN Web Docs, online technical documents, Stack Overflow, Youtube, etc
 
 <a href="https://www.coursera.org/"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/coursera.png" height=100/></a>
 <a href="https://www.udemy.com/"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/udemy.png" height=100/></a>
