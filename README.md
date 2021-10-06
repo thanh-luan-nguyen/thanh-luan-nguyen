@@ -63,7 +63,6 @@ My brief history of learning:
   
 ## 🗃️ Open source projects
 
-
 <p align="center">
   <a href="https://www.theodinproject.com/dashboard"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/theOdinProject.png" height=100/></a>
 </p>
@@ -115,8 +114,8 @@ My brief history of learning:
    </tr>
    <tr>
      <td colspan=2 align="center"><b>restaurant page</b></td>
-     <td colspan=2 align="center">todolist app<b></b></td>
-     <td colspan=2 align="center"><b>weather app</b></td>
+     <td colspan=2 align="center">🌟 todolist app 🌟<b></b></td>
+     <td colspan=2 align="center"><b>🌟 weather app 🌟</b></td>
    </tr>
    <tr>
      <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/restaurant-page">Demo</a></td>
@@ -134,9 +133,9 @@ My brief history of learning:
      <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Shopping%20Cart.gif" width=300/></td>
    </tr>
    <tr>
-     <td colspan=2 align="center"><b>cv-builder</b></td>
+     <td colspan=2 align="center"><b>🌟 cv-builder 🌟</b></td>
      <td colspan=2 align="center"><b>memory card game</b></td>
-     <td colspan=2 align="center"><b>shopping cart</b></td>
+     <td colspan=2 align="center"><b>🌟 shopping cart 🌟</b></td>
    </tr>
    <tr>
      <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/cv-builder">Demo</a></td>
@@ -257,3 +256,4 @@ My brief history of learning:
      <td align="center">⚙️&nbsp <a href="https://codesandbox.io/s/random-quote-machine-mtdmo">Code</a></td>
   </tr>
 </table>
+
