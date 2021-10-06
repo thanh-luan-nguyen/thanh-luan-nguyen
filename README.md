@@ -63,119 +63,6 @@ My brief history of learning:
   
 ## 🗃️ Open source projects
 
-<p align="center">
-  <a href="https://www.udemy.com/course/the-web-developer-bootcamp/"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/udemy.png" height=100/></a>
-</p>
-
-<table align="center">
-    <tr>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Dad%20Jokes%20App.gif" width=300/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Calculator.gif" width=300/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Pokedex.gif" width=300/></td>
-   </tr>
-   <tr>
-     <td colspan=2 align="center"><b>dad jokes app</b></td>
-     <td colspan=2 align="center"><b>calculator</b></td>
-     <td colspan=2 align="center"><b>pokedex</b></td>
-   </tr>
-   <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/dad-jokes-app/">Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/dad-jokes-app">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/calculator-2/">Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/calculator-2">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/pokedex/">Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/pokedex">Code</a></td>
-  </tr>
-</table>
-<table align="center">
-    <tr>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Task%20App.gif" width=300/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Roll%20Dice.gif" width=300/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/HangMan.gif" width=300/></td>
-   </tr>
-   <tr>
-     <td colspan=2 align="center"><b>task app</b></td>
-     <td colspan=2 align="center"><b>roll dice app</b></td>
-     <td colspan=2 align="center"><b>hangman</b></td>
-   </tr>
-   <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/task-app/">Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/task-app">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/roll-dice/">Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/roll-dice">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/hangman/">Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/hangman">Code</a></td>
-  </tr>
-</table>
-<table align="center">
-    <tr>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Lights%20Out.gif" width=300/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Color%20Box%20Maker.gif" width=300/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Todo%20List%20React.gif" width=300/></td>
-   </tr>
-   <tr>
-     <td colspan=2 align="center"><b>lights-out game</b></td>
-     <td colspan=2 align="center"><b>color box maker</b></td>
-     <td colspan=2 align="center"><b>to-do-list</b></td>
-   </tr>
-   <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/lights-out/">Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/lights-out">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/box-maker/">Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/box-maker">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/to-do-list-react/">Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/to-do-list-react">Code</a></td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://www.freecodecamp.org/learn/"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/freeCodeCamp.png" height=100/></a>
-</p>
-
-
-
-
-
-<table align="center">
-    <tr>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Survey%20Form.gif" width=300/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Tribute%20Page.gif" width=300/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Technical%20Documentation%20Page.gif" width=300/></td>
-   </tr>
-   <tr>
-     <td colspan=2 align="center"><b>survey form</b></td>
-     <td colspan=2 align="center"><b>tribute page</b></td>
-     <td colspan=2 align="center"><b>technical documentation page</b></td>
-   </tr>
-   <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/survey-form/">Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/survey-form">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/tribute-page/">Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/tribute-page">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/technical-documentation-page/">Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/technical-documentation-page">Code</a></td>
-  </tr>
-</table>
-<table align="center">
-    <tr>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Expanding%20Cards.gif" width=300/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Product%20Landing%20Page.gif" width=300/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Random%20Quote%20Machine.gif" width=300/></td>
-   </tr>
-   <tr>
-     <td colspan=2 align="center"><b>expanding cards</b></td>
-     <td colspan=2 align="center"><b>product landing page</b></td>
-     <td colspan=2 align="center"><b>random quote machine</b></td>
-   </tr>
-   <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/expanding-cards/">Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/expanding-cards">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/product-landing-page/">Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/product-landing-page">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://mtdmo.csb.app/">Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://codesandbox.io/s/random-quote-machine-mtdmo">Code</a></td>
-  </tr>
-</table>
 
 <p align="center">
   <a href="https://www.theodinproject.com/dashboard"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/theOdinProject.png" height=100/></a>
@@ -261,16 +148,112 @@ My brief history of learning:
   </tr>
 </table>
 
-<a href="https://github.com/thanh-luan-nguyen/testing-practice">unit testing practice</a>
+<p align="center">
+  <a href="https://www.udemy.com/course/the-web-developer-bootcamp/"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/udemy.png" height=100/></a>
+</p>
 
-<!-- ### Other Projects
-| **Project Name** |  **Live Demo** | **Code** | **Preview** | 
-- **a responsive website** [demo](https://nguyen-thanh-luan-github.github.io/a-responsive-website-github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/a-responsive-website-github.io)
-- **survey form** [demo](https://nguyen-thanh-luan-github.github.io/survey-form.github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/survey-form.github.io)
-- **tribute page** [demo](https://nguyen-thanh-luan-github.github.io/tribute-page.github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/tribute-page.github.io)
-- **technical documentation page** [demo](https://nguyen-thanh-luan-github.github.io/technical-documentation-page.github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/technical-documentation-page.github.io)
-- **product landing page** [demo](https://nguyen-thanh-luan-github.github.io/product-landing-page.github.io/) [code](https://github.com/NGUYEN-THANH-LUAN-github/product-landing-page.github.io) -->
+<table align="center">
+    <tr>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Dad%20Jokes%20App.gif" width=300/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Calculator.gif" width=300/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Pokedex.gif" width=300/></td>
+   </tr>
+   <tr>
+     <td colspan=2 align="center"><b>dad jokes app</b></td>
+     <td colspan=2 align="center"><b>calculator</b></td>
+     <td colspan=2 align="center"><b>pokedex</b></td>
+   </tr>
+   <tr>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/dad-jokes-app/">Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/dad-jokes-app">Code</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/calculator-2/">Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/calculator-2">Code</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/pokedex/">Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/pokedex">Code</a></td>
+  </tr>
+</table>
+<table align="center">
+    <tr>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Task%20App.gif" width=300/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Roll%20Dice.gif" width=300/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/HangMan.gif" width=300/></td>
+   </tr>
+   <tr>
+     <td colspan=2 align="center"><b>task app</b></td>
+     <td colspan=2 align="center"><b>roll dice app</b></td>
+     <td colspan=2 align="center"><b>hangman</b></td>
+   </tr>
+   <tr>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/task-app/">Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/task-app">Code</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/roll-dice/">Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/roll-dice">Code</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/hangman/">Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/hangman">Code</a></td>
+  </tr>
+</table>
+<table align="center">
+    <tr>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Lights%20Out.gif" width=300/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Color%20Box%20Maker.gif" width=300/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Todo%20List%20React.gif" width=300/></td>
+   </tr>
+   <tr>
+     <td colspan=2 align="center"><b>lights-out game</b></td>
+     <td colspan=2 align="center"><b>color box maker</b></td>
+     <td colspan=2 align="center"><b>to-do-list</b></td>
+   </tr>
+   <tr>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/lights-out/">Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/lights-out">Code</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/box-maker/">Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/box-maker">Code</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/to-do-list-react/">Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/to-do-list-react">Code</a></td>
+  </tr>
+</table>
 
-<!-- <a href="https://www.coursera.org/"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/coursera.png" height=100/></a>
+<p align="center">
+  <a href="https://www.freecodecamp.org/learn/"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/freeCodeCamp.png" height=100/></a>
+</p>
 
-My [certificate of completion](https://github.com/thanh-luan-nguyen/html-css-javascript-for-web-developers/) 👈 -->
+<table align="center">
+    <tr>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Survey%20Form.gif" width=300/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Tribute%20Page.gif" width=300/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Technical%20Documentation%20Page.gif" width=300/></td>
+   </tr>
+   <tr>
+     <td colspan=2 align="center"><b>survey form</b></td>
+     <td colspan=2 align="center"><b>tribute page</b></td>
+     <td colspan=2 align="center"><b>technical documentation page</b></td>
+   </tr>
+   <tr>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/survey-form/">Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/survey-form">Code</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/tribute-page/">Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/tribute-page">Code</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/technical-documentation-page/">Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/technical-documentation-page">Code</a></td>
+  </tr>
+</table>
+<table align="center">
+    <tr>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Expanding%20Cards.gif" width=300/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Product%20Landing%20Page.gif" width=300/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Random%20Quote%20Machine.gif" width=300/></td>
+   </tr>
+   <tr>
+     <td colspan=2 align="center"><b>expanding cards</b></td>
+     <td colspan=2 align="center"><b>product landing page</b></td>
+     <td colspan=2 align="center"><b>random quote machine</b></td>
+   </tr>
+   <tr>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/expanding-cards/">Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/expanding-cards">Code</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/product-landing-page/">Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/product-landing-page">Code</a></td>
+     <td align="center">🧱&nbsp <a href="https://mtdmo.csb.app/">Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://codesandbox.io/s/random-quote-machine-mtdmo">Code</a></td>
+  </tr>
+</table>
