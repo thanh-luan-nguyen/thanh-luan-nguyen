@@ -110,17 +110,19 @@ My brief history of learning:
   <tr>
     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Memory%20Card.gif" width=300/></td>
     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Mellandi%20Caravan.gif" width=300/></td>
+    <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/Jest.png" width=300/></td>
    </tr>
    <tr>
      <td colspan=2 align="center"><b>memory card game</b></td>
      <td colspan=2 align="center"><b>restaurant page</b></td>
+     <td colspan=2 align="center"><b>testing practice</b></td>
    </tr>
    <tr>
      <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/memory-card-game">Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/memory-card-game">Code</a></td>
-      <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/restaurant-page">Demo</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/restaurant-page">Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/restaurant-page">Code</a></td>
-     
+     <td colspan=2 align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/testing-practice">Code</a></td>
   </tr>
 </table>
 <table align="center">
