@@ -108,44 +108,66 @@ My brief history of learning:
 </table>
 <table align="center">
   <tr>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Mellandi%20Caravan.gif" width=300/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Todo%20List.gif" width=300/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Weather%20App.gif" width=300/></td>
+    <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Memory%20Card.gif" width=300/></td>
+    <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Mellandi%20Caravan.gif" width=300/></td>
    </tr>
    <tr>
+     <td colspan=2 align="center"><b>memory card game</b></td>
      <td colspan=2 align="center"><b>restaurant page</b></td>
+   </tr>
+   <tr>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/memory-card-game">Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/memory-card-game">Code</a></td>
+      <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/restaurant-page">Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/restaurant-page">Code</a></td>
+     
+  </tr>
+</table>
+<table align="center">
+  <tr>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Todo%20List.gif" width=500/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Shopping%20Cart.gif" width=500/></td>
+   </tr>
+   <tr>
      <td colspan=2 align="center"><b>🌟 todolist app 🌟</b></td>
+     <td colspan=2 align="center"><b>🌟 shopping cart 🌟</b></td>
+   </tr>
+   <tr>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/to-do-list">Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/to-do-list">Code</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/shopping-cart">Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/shopping-cart">Code</a></td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/CV%20Builder.gif" width=500/></td>
+    <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Weather%20App.gif" width=500/></td>
+   </tr>
+   <tr>
+     <td colspan=2 align="center"><b>🌟 cv-builder 🌟</b></td>
      <td colspan=2 align="center"><b>🌟 weather app 🌟</b></td>
    </tr>
    <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/restaurant-page">Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/restaurant-page">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/to-do-list">Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/to-do-list">Code</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/cv-builder">Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/cv-builder">Code</a></td>
      <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/weather-app">Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/weather-app">Code</a></td>
   </tr>
 </table>
 <table align="center">
   <tr>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/CV%20Builder.gif" width=300/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Memory%20Card.gif" width=300/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Shopping%20Cart.gif" width=300/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/faekbook.gif" width=1000/></td>
    </tr>
    <tr>
-     <td colspan=2 align="center"><b>🌟 cv-builder 🌟</b></td>
-     <td colspan=2 align="center"><b>memory card game</b></td>
-     <td colspan=2 align="center"><b>🌟 shopping cart 🌟</b></td>
+     <td colspan=2 align="center"><b>🌟🌟 faekbook 🌟🌟</b></td>
    </tr>
    <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/cv-builder">Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/cv-builder">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/memory-card-game">Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/memory-card-game">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/shopping-cart">Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/shopping-cart">Code</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/faekbook">Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/faekbook">Code</a></td>
   </tr>
 </table>
+
 
 <p align="center">
   <a href="https://www.udemy.com/course/the-web-developer-bootcamp/"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/udemy.png" height=100/></a>
