@@ -114,7 +114,7 @@ My brief history of learning:
    </tr>
    <tr>
      <td colspan=2 align="center"><b>restaurant page</b></td>
-     <td colspan=2 align="center">🌟 todolist app 🌟<b></b></td>
+     <td colspan=2 align="center"><b>🌟 todolist app 🌟</b></td>
      <td colspan=2 align="center"><b>🌟 weather app 🌟</b></td>
    </tr>
    <tr>
