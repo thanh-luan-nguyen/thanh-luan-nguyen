@@ -67,7 +67,7 @@
 <table align="center">
    <tr>
      <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Google%20Homepage.gif" width=500/></td>
-     <td colspan=2><img src="" width=500/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Youtube%20homepage.gif" width=500/></td>
      <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Rock%20Paper%20Scissors.gif" width=500/></td>
    </tr>
    <tr>
