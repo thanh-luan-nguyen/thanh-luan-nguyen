@@ -67,40 +67,40 @@
 <table align="center">
    <tr>
      <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Google%20Homepage.gif" width=350/></td>
+     <td colspan=2><img src="" width=350/></td>
      <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Rock%20Paper%20Scissors.gif" width=350/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/etch-a-sketch.gif" width=350/></td>
    </tr>
    <tr>
      <td colspan=2 align="center"><b>Google homepage</b></td>
+     <td colspan=2 align="center"><b>Youtube videopage</b></td>
      <td colspan=2 align="center"><b>rock paper scissors</b></td>
-     <td colspan=2 align="center"><b>random quote machine</b></td>
    </tr>
    <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/google-homepage">Demo</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/google-homepage">Live Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/google-homepage">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/rock-paper-scissors">Demo</a></td>
+     <td align="center">🧱&nbsp <a href="https://g5gud.csb.app/">Live Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://codesandbox.io/s/youtube-video-page-g5gud?">Code</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/rock-paper-scissors">Live Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/rock-paper-scissors">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://ld6mk.csb.app/">Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://codesandbox.io/s/random-quote-machine-ld6mk">Code</a></td>
   </tr>
 </table>
 <table align="center">
   <tr>
      <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Calculator.gif" width=350/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Library.gif" width=350/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/etch-a-sketch.gif" width=350/></td>
      <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/TicTacToe.gif" width=350/></td>
    </tr>
    <tr>
      <td colspan=2 align="center"><b>calculator app</b></td>
-     <td colspan=2 align="center"><b>book keeping app</b></td>
+     <td colspan=2 align="center"><b>random quote machine</b></td>
      <td colspan=2 align="center"><b>tic-tac-toe</b></td>
    </tr>
    <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/calculator-app">Demo</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/calculator-app">Live Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/calculator-app">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/book-keeping-app">Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/book-keeping-app">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/tic-tac-toe">Demo</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/etch-a-sketch/">Live Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/etch-a-sketch">Code</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/tic-tac-toe">Live Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/tic-tac-toe">Code</a></td>
   </tr>
 </table>
@@ -116,11 +116,31 @@
      <td colspan=2 align="center"><b>testing practice</b></td>
    </tr>
    <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/memory-card-game">Demo</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/memory-card-game">Live Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/memory-card-game">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/restaurant-page">Demo</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/restaurant-page">Live Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/restaurant-page">Code</a></td>
      <td colspan=2 align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/testing-practice">Code</a></td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Library.gif" width=350/></td>
+    <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/CV%20Builder.gif" width=500/></td>
+    <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Weather%20App.gif" width=500/></td>
+   </tr>
+   <tr>
+     <td colspan=2 align="center"><b>🌟 book keeping app 🌟</b></td>
+     <td colspan=2 align="center"><b>🌟 cv-builder 🌟</b></td>
+     <td colspan=2 align="center"><b>🌟 weather app 🌟</b></td>
+   </tr>
+   <tr>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/book-keeping-app">Live Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/book-keeping-app">Code</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/cv-builder">Live Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/cv-builder">Code</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/weather-app">Live Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/weather-app">Code</a></td>
   </tr>
 </table>
 <table align="center">
@@ -129,30 +149,15 @@
      <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Shopping%20Cart.gif" width=500/></td>
    </tr>
    <tr>
-     <td colspan=2 align="center"><b>🌟 todolist app 🌟</b></td>
-     <td colspan=2 align="center"><b>🌟 shopping cart 🌟</b></td>
+     <td colspan=2 align="center"><b>🌟🌟 todolist app 🌟🌟</b></td>
+     <td colspan=2 align="center"><b>🌟🌟 shopping cart 🌟🌟</b></td>
    </tr>
    <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/to-do-list">Demo</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/to-do-list">Live Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/to-do-list">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/shopping-cart">Demo</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/shopping-cart">Live Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/shopping-cart">Code</a></td>
-  </tr>
-</table>
-<table align="center">
-  <tr>
-    <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/CV%20Builder.gif" width=500/></td>
-    <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Weather%20App.gif" width=500/></td>
-   </tr>
-   <tr>
-     <td colspan=2 align="center"><b>🌟 cv-builder 🌟</b></td>
-     <td colspan=2 align="center"><b>🌟 weather app 🌟</b></td>
-   </tr>
-   <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/cv-builder">Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/cv-builder">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/weather-app">Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/weather-app">Code</a></td>
+     
   </tr>
 </table>
 <table align="center">
@@ -160,10 +165,10 @@
      <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/faekbook.gif" width=1000/></td>
    </tr>
    <tr>
-     <td colspan=2 align="center"><b>🌟🌟 faekbook 🌟🌟</b></td>
+     <td colspan=2 align="center"><b>🌟🌟🌟 faekbook 🌟🌟🌟</b></td>
    </tr>
    <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/faekbook">Demo</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/faekbook">Live Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/faekbook">Code</a></td>
   </tr>
 </table>
@@ -185,11 +190,11 @@
      <td colspan=2 align="center"><b>pokedex</b></td>
    </tr>
    <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/dad-jokes-app/">Demo</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/dad-jokes-app/">Live Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/dad-jokes-app">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/calculator-2/">Demo</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/calculator-2/">Live Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/calculator-2">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/pokedex/">Demo</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/pokedex/">Live Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/pokedex">Code</a></td>
   </tr>
 </table>
@@ -205,11 +210,11 @@
      <td colspan=2 align="center"><b>hangman</b></td>
    </tr>
    <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/task-app/">Demo</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/task-app/">Live Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/task-app">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/roll-dice/">Demo</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/roll-dice/">Live Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/roll-dice">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/hangman/">Demo</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/hangman/">Live Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/hangman">Code</a></td>
   </tr>
 </table>
@@ -225,11 +230,11 @@
      <td colspan=2 align="center"><b>to-do-list</b></td>
    </tr>
    <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/lights-out/">Demo</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/lights-out/">Live Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/lights-out">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/box-maker/">Demo</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/box-maker/">Live Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/box-maker">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/to-do-list-react/">Demo</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/to-do-list-react/">Live Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/to-do-list-react">Code</a></td>
   </tr>
 </table>
@@ -250,11 +255,11 @@
      <td colspan=2 align="center"><b>technical documentation page</b></td>
    </tr>
    <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/survey-form/">Demo</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/survey-form/">Live Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/survey-form">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/tribute-page/">Demo</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/tribute-page/">Live Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/tribute-page">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/technical-documentation-page/">Demo</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/technical-documentation-page/">Live Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/technical-documentation-page">Code</a></td>
   </tr>
 </table>
@@ -270,11 +275,11 @@
      <td colspan=2 align="center"><b>random quote machine</b></td>
    </tr>
    <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/expanding-cards/">Demo</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/expanding-cards/">Live Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/expanding-cards">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/product-landing-page/">Demo</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/product-landing-page/">Live Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/product-landing-page">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://mtdmo.csb.app/">Demo</a></td>
+     <td align="center">🧱&nbsp <a href="https://mtdmo.csb.app/">Live Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://codesandbox.io/s/random-quote-machine-mtdmo">Code</a></td>
   </tr>
 </table>
