@@ -66,9 +66,9 @@
 </p>
 <table align="center">
    <tr>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Google%20Homepage.gif" width=350/></td>
-     <td colspan=2><img src="" width=350/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Rock%20Paper%20Scissors.gif" width=350/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Google%20Homepage.gif" width=500/></td>
+     <td colspan=2><img src="" width=500/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Rock%20Paper%20Scissors.gif" width=500/></td>
    </tr>
    <tr>
      <td colspan=2 align="center"><b>Google homepage</b></td>
@@ -86,9 +86,9 @@
 </table>
 <table align="center">
   <tr>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Calculator.gif" width=350/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/etch-a-sketch.gif" width=350/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/TicTacToe.gif" width=350/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Calculator.gif" width=500/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/etch-a-sketch.gif" width=500/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/TicTacToe.gif" width=500/></td>
    </tr>
    <tr>
      <td colspan=2 align="center"><b>calculator app</b></td>
@@ -106,9 +106,9 @@
 </table>
 <table align="center">
   <tr>
-    <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Memory%20Card.gif" width=350/></td>
-    <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Mellandi%20Caravan.gif" width=350/></td>
-    <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/Jest.png" width=350/></td>
+    <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Memory%20Card.gif" width=500/></td>
+    <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Mellandi%20Caravan.gif" width=500/></td>
+    <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/Jest.png" width=500/></td>
    </tr>
    <tr>
      <td colspan=2 align="center"><b>memory card game</b></td>
@@ -125,7 +125,7 @@
 </table>
 <table align="center">
   <tr>
-    <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Library.gif" width=350/></td>
+    <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Library.gif" width=500/></td>
     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/CV%20Builder.gif" width=500/></td>
     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Weather%20App.gif" width=500/></td>
    </tr>
@@ -180,9 +180,9 @@
 
 <table align="center">
     <tr>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Dad%20Jokes%20App.gif" width=350/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Calculator.gif" width=350/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Pokedex.gif" width=350/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Dad%20Jokes%20App.gif" width=500/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Calculator.gif" width=500/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Pokedex.gif" width=500/></td>
    </tr>
    <tr>
      <td colspan=2 align="center"><b>dad jokes app</b></td>
@@ -200,9 +200,9 @@
 </table>
 <table align="center">
     <tr>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Task%20App.gif" width=350/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Roll%20Dice.gif" width=350/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/HangMan.gif" width=350/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Task%20App.gif" width=500/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Roll%20Dice.gif" width=500/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/HangMan.gif" width=500/></td>
    </tr>
    <tr>
      <td colspan=2 align="center"><b>task app</b></td>
@@ -220,9 +220,9 @@
 </table>
 <table align="center">
     <tr>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Lights%20Out.gif" width=350/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Color%20Box%20Maker.gif" width=350/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Todo%20List%20React.gif" width=350/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Lights%20Out.gif" width=500/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Color%20Box%20Maker.gif" width=500/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Todo%20List%20React.gif" width=500/></td>
    </tr>
    <tr>
      <td colspan=2 align="center"><b>lights-out game</b></td>
@@ -245,9 +245,9 @@
 
 <table align="center">
     <tr>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Survey%20Form.gif" width=350/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Tribute%20Page.gif" width=350/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Technical%20Documentation%20Page.gif" width=350/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Survey%20Form.gif" width=500/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Tribute%20Page.gif" width=500/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Technical%20Documentation%20Page.gif" width=500/></td>
    </tr>
    <tr>
      <td colspan=2 align="center"><b>survey form</b></td>
@@ -265,9 +265,9 @@
 </table>
 <table align="center">
     <tr>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Expanding%20Cards.gif" width=350/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Product%20Landing%20Page.gif" width=350/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Random%20Quote%20Machine.gif" width=350/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Expanding%20Cards.gif" width=500/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Product%20Landing%20Page.gif" width=500/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Random%20Quote%20Machine.gif" width=500/></td>
    </tr>
    <tr>
      <td colspan=2 align="center"><b>expanding cards</b></td>
