@@ -27,12 +27,12 @@
 - Hands-on Coding Platforms (Codewars, Codecademy)
 - My main reference sources are the MDN Web Docs, online technical documents, Stack Overflow, Youtube, etc
 
-<a href="https://www.coursera.org/"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/coursera.png" height=80/></a>
-<a href="https://www.udemy.com/"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/udemy.png" height=80/></a>
-<a href="https://www.freecodecamp.org/learn/"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/freeCodeCamp.png" height=80/></a>
-<a href="https://www.theodinproject.com/dashboard"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/theOdinProject.png" height=80/></a>
-<a href="https://www.theodinproject.com/dashboard"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/Codewars.png" height=80/></a>
-<a href="https://www.theodinproject.com/dashboard"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/MDN%20Web%20Docs.png" height=80/></a>
+<a href="https://www.coursera.org/"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/coursera.png" height=70/></a>
+<a href="https://www.udemy.com/"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/udemy.png" height=70/></a>
+<a href="https://www.freecodecamp.org/learn/"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/freeCodeCamp.png" height=70/></a>
+<a href="https://www.theodinproject.com/dashboard"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/theOdinProject.png" height=70/></a>
+<a href="https://www.theodinproject.com/dashboard"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/Codewars.png" height=70/></a>
+<a href="https://www.theodinproject.com/dashboard"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/MDN%20Web%20Docs.png" height=70/></a>
 ## 🛠️ Tools I code with
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
