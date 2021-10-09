@@ -8,6 +8,8 @@
 - **Country of origin**: Vietnam
 - **Date of birth**: January 18, 1997 
 - **Currently residing in**: Fukuoka, Japan 
+- **Contact**: (+81) 080-4692-4098
+- **Email**: thanhluannguyenxyz@gmail.com
 
 
 🇯🇵 現在、私は外国人技能実習生監理団体で通訳・翻訳の業務に勤めています。キャリアチェンジを目指しているため、プログラミング及びウェブ開発の勉強を始めました。
@@ -168,7 +170,7 @@
      <td colspan=2 align="center"><b>🌟🌟🌟 faekbook 🌟🌟🌟</b></td>
    </tr>
   <tr>
-     <td colspan=2 align="center">My biggest project, a Facebook clone</td>
+    <td colspan=2 align="center">My biggest project: a <b>Facebook</b> clone</td>
    </tr>
    <tr>
      <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/faekbook">Live Demo</a></td>
