@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋 I am Nguyen Thanh Luan <img src="https://avatars.githubusercontent.com/u/76740922?s=400&u=7221ef665df4b67240c918555cce0a15a59cabaf&v=4" style="border-radius: 50px;" height=50/></h1>
 
 <h3 align="center">Frontend Web Developer</h3>
-<div align="center">🌱 I'm currently learning web development, mainly using frontend framework such as React.</div>
+<div align="center">🌱 I build websites and design its UI, mainly using frontend frameworks such as React.</div>
 <div align="center">🌱 I am looking to become a full-time web developer.</div>
 
 ## 💼 Brief personal infos
