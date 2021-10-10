@@ -291,3 +291,25 @@
   </tr>
 </table>
 
+<h3 align="center">📁 other projects...</h3>
+
+<table align="center">
+    <tr>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/others/Accordion%20UI.png" width=500/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/others/Accordion%20UI.png" width=500/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/others/China%20Bistro.png" width=500/></td>
+   </tr>
+   <tr>
+     <td colspan=2 align="center"><b>accordion UI design</b></td>
+     <td colspan=2 align="center"><b>a responsive website</b></td>
+     <td colspan=2 align="center"><b>Course final project</b></td>
+   </tr>
+   <tr>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/accordion-ui-design/">Live Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/accordion-ui-design">Code</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/a-responsive-website/">Live Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/a-responsive-website">Code</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/China-Bistro/">Live Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/China-Bistro">Code</a></td>
+  </tr>
+</table>
