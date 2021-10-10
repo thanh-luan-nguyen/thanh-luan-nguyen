@@ -8,7 +8,7 @@
 
 ## 💼 Brief personal infos
 - **🌐 Country of origin**: Vietnam
-- **🎂 Date of birth**: January 18, 1997 
+- **🎂 Date of birth**: February 18, 1997 
 - **📍 Currently residing in**: Fukuoka, Japan 
 - **📞 Contact**: (+81) 080-4692-4098
 - **📧 Email**: thanhluannguyenxyz@gmail.com
