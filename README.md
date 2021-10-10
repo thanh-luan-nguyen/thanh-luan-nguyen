@@ -154,7 +154,7 @@
    </tr>
    <tr>
      <td colspan=2 align="center"><b>🌟🌟 todolist app 🌟🌟</b></td>
-     <td colspan=2 align="center"><b>🌟🌟 shopping cart 🌟🌟</b></td>
+     <td colspan=2 align="center"><b>🌟🌟 shopping website 🌟🌟</b></td>
    </tr>
    <tr>
      <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/to-do-list">Live Demo</a></td>
