@@ -296,7 +296,7 @@
 <table align="center">
     <tr>
      <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/others/Accordion%20UI.png" width=500/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/others/Accordion%20UI.png" width=500/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/others/Responsive%20Made%20Easy.gif" width=500/></td>
      <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/others/China%20Bistro.png" width=500/></td>
    </tr>
    <tr>
