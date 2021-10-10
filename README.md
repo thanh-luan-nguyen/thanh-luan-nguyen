@@ -4,6 +4,8 @@
 <div align="center">🌱 I build websites and design its UI, mainly using frontend frameworks such as React.</div>
 <div align="center">🌱 I am looking to become a full-time web developer.</div>
 
+<a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/My%20Resume.pdf" target="_blank">Download my CV</a>
+
 ## 💼 Brief personal infos
 - **Country of origin**: Vietnam
 - **Date of birth**: January 18, 1997 
