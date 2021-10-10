@@ -19,7 +19,7 @@
 - 大規模公開オンライン講座（Udemy、Coursera)
 - プロジェクト型学習プラットフォーム（The Odin Project, freeCodeCamp)
 - 実践的コーディングプラットフォーム (Codewars, Codecademy)
-- よく使う参考資料ははMDN Web Docs、オンライン専門的文書、Stack Overflow、Youtube等
+- よく使う参考資料はMDN Web Docs、オンライン専門的文書、Stack Overflow、Youtube等
 
 🇺🇸 My brief history of learning:
 - MOOC courses (Udemy, Coursera)
