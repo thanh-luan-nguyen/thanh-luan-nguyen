@@ -172,7 +172,7 @@
      <td colspan=2 align="center"><b>🌟🌟🌟 faekbook 🌟🌟🌟</b></td>
    </tr>
   <tr>
-    <td colspan=2 align="center"><div>私の代表的なプロジェクト：偽物のFacebook</div><div>My biggest project: a <b>Facebook</b> clone</div></td>
+    <td colspan=2 align="center"><div>私の代表的なプロジェクト：<strong>Facebook</strong>のクローンサイト</div><div>My biggest project: a <strong>Facebook</strong> clone</div></td>
    </tr>
    <tr>
      <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/faekbook">Live Demo</a></td>
