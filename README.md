@@ -4,14 +4,14 @@
 <div align="center">🌱 I build websites and design its UI, mainly using frontend frameworks such as React.</div>
 <div align="center">🌱 I am looking to become a full-time web developer.</div>
 
-<div align="center"><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/NGUYEN%20THANH%20LUAN.pdf" target="_blank">Download my CV</a></div>
+<div align="center"><h3>📃 <a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/NGUYEN%20THANH%20LUAN.pdf" target="_blank">Download my CV</a> 👈</h3></div>
 
 ## 💼 Brief personal infos
-- **Country of origin**: Vietnam
-- **Date of birth**: January 18, 1997 
-- **Currently residing in**: Fukuoka, Japan 
-- **Contact**: (+81) 080-4692-4098
-- **Email**: thanhluannguyenxyz@gmail.com
+- **🌐 Country of origin**: Vietnam
+- **🎂 Date of birth**: January 18, 1997 
+- **📍 Currently residing in**: Fukuoka, Japan 
+- **📞 Contact**: (+81) 080-4692-4098
+- **📧 Email**: thanhluannguyenxyz@gmail.com
 
 🇯🇵 現在、私は外国人技能実習生監理団体で通訳・翻訳の業務に勤めています。キャリアチェンジを目指しているため、プログラミング及びウェブ開発の勉強を始めました。
 🇺🇸 Currently, I am working as an interpreter and translator at a foreign technical intern trainee supervision organization. With the purpose of a career change in mind, I started learning programming as well as web development.
