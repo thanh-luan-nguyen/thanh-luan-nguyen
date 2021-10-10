@@ -1,28 +1,28 @@
-<h1 align="center">Hello 👋 I am Nguyen Thanh Luan <img src="https://avatars.githubusercontent.com/u/76740922?s=400&u=7221ef665df4b67240c918555cce0a15a59cabaf&v=4" style="border-radius: 50px;" height=50/></h1>
+<h1 align="center">こんにちは Hello 👋 I am NGUYEN THANH LUAN <img src="https://avatars.githubusercontent.com/u/76740922?s=400&u=7221ef665df4b67240c918555cce0a15a59cabaf&v=4" style="border-radius: 50px;" height=50/></h1>
 
-<h3 align="center">Frontend Web Developer</h3>
-<div align="center">🌱 I build websites and design its UI, mainly using frontend frameworks such as React.</div>
-<div align="center">🌱 I am looking to become a full-time web developer.</div>
+<h3 align="center">私はフロントエンドエンジニアです・Frontend Web Developer</h3>
+<div align="center">🌱 React等のフレームワークを用いて、ウエブサイト制作とUIの設計をしております</div>
+<div align="center">I build websites and design its UI, mainly using frontend frameworks such as React.</div>
+<div align="center">🌱 ウエブ開発に関する職業に就きたいと思っております。</div>
+<div align="center">I am looking to become a full-time web developer.</div>
 
 <div align="center"><h3>📃 <a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/NGUYEN%20THANH%20LUAN.pdf" target="_blank">Download my CV</a> 👈</h3></div>
+<div align="center"><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/NGUYEN%20THANH%20LUAN.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/CV.jpg" width=100/></a></div>
 
-## 💼 Brief personal infos
-- **🌐 Country of origin**: Vietnam
-- **🎂 Date of birth**: February 18, 1997 
-- **📍 Currently residing in**: Fukuoka, Japan 
-- **📞 Contact**: (+81) 080-4692-4098
-- **📧 Email**: thanhluannguyenxyz@gmail.com
+## 💼 個人情報 Personal Infos
+- **🌐 母国 Country of origin**: ベトナム・Vietnam
+- **🎂 生年月日 Date of birth**: 1997年2月18日・February 18, 1997 
+- **📍 現住所 Currently residing in**: 日本国福岡県・Japan, Fukuoka 
+- **📞 連絡先 Contact**: (+81) 080-4692-4098
+- **📧 メール Email**: thanhluannguyenxyz@gmail.com
 
-🇯🇵 現在、私は外国人技能実習生監理団体で通訳・翻訳の業務に勤めています。キャリアチェンジを目指しているため、プログラミング及びウェブ開発の勉強を始めました。
-🇺🇸 Currently, I am working as an interpreter and translator at a foreign technical intern trainee supervision organization. With the purpose of a career change in mind, I started learning programming as well as web development.
-
-🇯🇵 学習歴史の概要：
+**🇯🇵 学習歴史の概要:**
 - 大規模公開オンライン講座（Udemy、Coursera)
 - プロジェクト型学習プラットフォーム（The Odin Project, freeCodeCamp)
 - 実践的コーディングプラットフォーム (Codewars, Codecademy)
 - よく使う参考資料はMDN Web Docs、オンライン専門的文書、Stack Overflow、Youtube等
 
-🇺🇸 My brief history of learning:
+**🇺🇸 My brief history of learning:**
 - MOOC courses (Udemy, Coursera)
 - Project-based Learning Platforms (The Odin Project, freeCodeCamp)
 - Hands-on Coding Platforms (Codewars, Codecademy)
@@ -34,7 +34,8 @@
 <a href="https://www.theodinproject.com/dashboard"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/theOdinProject.png" height=70/></a>
 <a href="https://www.theodinproject.com/dashboard"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/Codewars.png" height=70/></a>
 <a href="https://www.theodinproject.com/dashboard"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/MDN%20Web%20Docs.png" height=70/></a>
-## 🛠️ Tools I code with
+
+## 🛠️ 使っているツール Tools I code with
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass&logoColor=1572B6)&nbsp;
@@ -56,13 +57,13 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-## 📈 Github activities
+## 📈 Githubでの活動の統計 Github activities
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanh-luan-nguyen&layout=compact)" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanh-luan-nguyen&show_icons=true&theme=tokyonight" />
 </p>
   
-## 🗃️ Open source projects
+## 🗃️ オープンソースプロジェクト Open source projects
 
 <p align="center">
   <a href="https://www.theodinproject.com/dashboard"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/theOdinProject.png" height=100/></a>
@@ -95,7 +96,7 @@
    </tr>
    <tr>
      <td colspan=2 align="center"><b>calculator app</b></td>
-     <td colspan=2 align="center"><b>random quote machine</b></td>
+     <td colspan=2 align="center"><b>etch-a-sketch pad</b></td>
      <td colspan=2 align="center"><b>tic-tac-toe</b></td>
    </tr>
    <tr>
@@ -153,7 +154,7 @@
    </tr>
    <tr>
      <td colspan=2 align="center"><b>🌟🌟 todolist app 🌟🌟</b></td>
-     <td colspan=2 align="center"><b>🌟🌟 shopping cart 🌟🌟</b></td>
+     <td colspan=2 align="center"><b>🌟🌟 shopping website 🌟🌟</b></td>
    </tr>
    <tr>
      <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/to-do-list">Live Demo</a></td>
@@ -171,7 +172,7 @@
      <td colspan=2 align="center"><b>🌟🌟🌟 faekbook 🌟🌟🌟</b></td>
    </tr>
   <tr>
-    <td colspan=2 align="center">My biggest project: a <b>Facebook</b> clone</td>
+    <td colspan=2 align="center"><div>🤩 私の代表的なプロジェクト：<strong>Facebook</strong>のクローンサイト</div><div>🤩 My biggest project: a <strong>Facebook</strong> clone</div></td>
    </tr>
    <tr>
      <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/faekbook">Live Demo</a></td>
