@@ -96,7 +96,7 @@
    </tr>
    <tr>
      <td colspan=2 align="center"><b>calculator app</b></td>
-     <td colspan=2 align="center"><b>random quote machine</b></td>
+     <td colspan=2 align="center"><b>etch-a-sketch pad</b></td>
      <td colspan=2 align="center"><b>tic-tac-toe</b></td>
    </tr>
    <tr>
