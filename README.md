@@ -1,5 +1,4 @@
 <h1 align="center">こんにちは Hello 👋 I am NGUYEN THANH LUAN <img src="https://avatars.githubusercontent.com/u/76740922?s=400&u=7221ef665df4b67240c918555cce0a15a59cabaf&v=4" style="border-radius: 50px;" height=50/></h1>
-
 <h3 align="center">私はフロントエンドエンジニアです・Frontend Web Developer</h3>
 <div align="center">🌱 React等のフレームワークを用いて、ウエブサイト制作とUIの設計をしております</div>
 <div align="center">I build websites and design its UI, mainly using frontend frameworks such as React.</div>
@@ -291,3 +290,37 @@
   </tr>
 </table>
 
+<h3 align="center">📁 other projects...</h3>
+
+<table align="center">
+    <tr>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/others/Accordion%20UI.png" width=500/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/others/Responsive%20Made%20Easy.gif" width=500/></td>
+     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/others/China%20Bistro.png" width=500/></td>
+   </tr>
+   <tr>
+     <td colspan=2 align="center"><b>accordion UI design</b></td>
+     <td colspan=2 align="center"><b>a responsive website</b></td>
+     <td colspan=2 align="center"><b>Course final project</b></td>
+   </tr>
+   <tr>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/accordion-ui-design/">Live Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/accordion-ui-design">Code</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/a-responsive-website/">Live Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/a-responsive-website">Code</a></td>
+     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/China-Bistro/">Live Demo</a></td>
+     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/China-Bistro">Code</a></td>
+  </tr>
+</table>
+
+# 🤾‍♂️ 希望・目標 My aspirations and my objectives 
+> <div><div>自分が学んだことを充実に発揮できるポジションに就ければと思います。</div><div>I am looking forward to a position where I can demonstrate my learned skills to the fullest.</div></div>
+
+### 自分のこれからの学習目標 My next learning plans:
+- デザイニングツール（例：Figma, Adobe Photoshop等）Designing tools such as Figma, Adobe Photoshop, etc
+- サーバー側プログラミングのスキル・知識 More server side programming skills and knowledge
+- もっとのバックエンドの技術 More backend technologies
+- ソフトウェアエンジニアリング Software Engineering
+- Python, Django,...
+
+# <div align="center"><div>🙌 最後までお読みいただきありがとうございました❕ 🙇‍</div><div>🙌 Thank you so much for reading my portfolio till the end❕ 🙇‍</div></div>
