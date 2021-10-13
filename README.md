@@ -116,7 +116,7 @@
    <tr>
      <td colspan=2 align="center"><b>memory card game</b></td>
      <td colspan=2 align="center"><b>restaurant page</b></td>
-     <td colspan=2 align="center"><b>testing practice</b></td>
+     <td colspan=2 align="center"><b>unit testing practice</b></td>
    </tr>
    <tr>
      <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/memory-card-game">Live Demo</a></td>
