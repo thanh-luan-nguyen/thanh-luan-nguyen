@@ -82,7 +82,7 @@
      <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/google-homepage">Live Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/google-homepage">Code</a></td>
      <td align="center">🧱&nbsp <a href="https://g5gud.csb.app/">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://codesandbox.io/s/youtube-video-page-g5gud?">Code</a></td>
+     <td align="center">⚙️&nbsp <a href="https://codesandbox.io/s/youtube-video-page-g5gud">Code</a></td>
      <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/rock-paper-scissors">Live Demo</a></td>
      <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/rock-paper-scissors">Code</a></td>
   </tr>
