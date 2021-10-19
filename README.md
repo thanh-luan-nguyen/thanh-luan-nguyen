@@ -46,6 +46,34 @@
 <a href="https://www.theodinproject.com/dashboard"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/Codewars.png" height=70/></a>
 <a href="https://www.theodinproject.com/dashboard"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/MDN%20Web%20Docs.png" height=70/></a>
 
+**Certificates 修了証明書**
+<table align="center">
+   <tr>
+     <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Coursera%E3%80%91%20HTML%2C%20CSS%2C%20and%20Javascript%20for%20Web%20Developers.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/ceritificates/%E3%80%90Coursera%E3%80%91%20HTML%2C%20CSS%2C%20and%20Javascript%20for%20Web%20Developers.jpg" height=150/></a></td>
+     <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Coursera%E3%80%91%20HTML%2C%20CSS%2C%20and%20Javascript%20for%20Web%20Developers.pdf" target="_blank"><b>【Coursera】 HTML, CSS, and Javascript for Web Developers</b></a></td>
+   </tr>
+   <tr>
+     <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90freeCodeCamp%E3%80%91%20Javascript%20Algorithms%20and%20Data%20Structures.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/ceritificates/%E3%80%90freeCodeCamp%E3%80%91%20Javascript%20Algorithms%20and%20Data%20Structures.png" height=150/></a></td>
+     <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90freeCodeCamp%E3%80%91%20Javascript%20Algorithms%20and%20Data%20Structures.pdf" target="_blank"><b>【freeCodeCamp】 Javascript Algorithms and Data Structures</b></a></td>
+   </tr>
+   <tr>
+     <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90freeCodeCamp%E3%80%91%20Responsive%20Web%20Design.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/ceritificates/%E3%80%90freeCodeCamp%E3%80%91%20Responsive%20Web%20Design.png" height=150/></a></td>
+     <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90freeCodeCamp%E3%80%91%20Responsive%20Web%20Design.pdf" target="_blank"><b>【freeCodeCamp】 Responsive Web Design</b></a></td>
+   </tr>
+   <tr>
+     <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Udemy%E3%80%91%20The%20Git%20%26%20Github%20Bootcamp.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/ceritificates/%E3%80%90Udemy%E3%80%91%20The%20Git%20%26%20Github%20Bootcamp.jpg" height=150/></a></td>
+     <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Udemy%E3%80%91%20The%20Git%20%26%20Github%20Bootcamp.pdf" target="_blank"><b>【Udemy】 The Git & Github Bootcamp</b></a></td>
+   </tr>
+   <tr>
+     <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Udemy%E3%80%91%20The%20Modern%20React%20Bootcamp.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/ceritificates/%E3%80%90Udemy%E3%80%91%20The%20Modern%20React%20Bootcamp.jpg" height=150/></a></td>
+     <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Udemy%E3%80%91%20The%20Modern%20React%20Bootcamp.pdf" target="_blank"><b>【Udemy】 The Modern React Bootcamp</b></a></td>
+   </tr>
+   <tr>
+     <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Udemy%E3%80%91%20The%20Web%20Developer%20Bootcamp%202021.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/ceritificates/%E3%80%90Udemy%E3%80%91%20The%20Web%20Developer%20Bootcamp%202021.jpg" height=150/></a></td>
+     <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Udemy%E3%80%91%20The%20Web%20Developer%20Bootcamp%202021.pdf" target="_blank"><b>【Udemy】 The Web Developer Bootcamp 2021</b></a></td>
+   </tr>
+</table>
+
 ## 🛠️ 使っているツール Tools I code with
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
