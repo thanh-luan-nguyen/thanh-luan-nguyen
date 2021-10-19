@@ -7,16 +7,16 @@
 
 <div align="center"><h3>📃 Download my CVs 👇</h3></div>
 
-<table　align="text">
+<table align="center">
    <tr>
-     <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/NGUYEN%20THANH%20LUAN.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/CV.jpg" height=150/></a></td>
-     <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/%E5%B1%A5%E6%AD%B4%E6%9B%B8.docx" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/pictures/%E5%B1%A5%E6%AD%B4%E6%9B%B8.jpg" height=150/></a></td>
-     <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.docx" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/pictures/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.jpg" height=150/></a></td>
+     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/NGUYEN%20THANH%20LUAN.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/CV.jpg" height=150/></a></td>
+     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/%E5%B1%A5%E6%AD%B4%E6%9B%B8.docx" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/pictures/%E5%B1%A5%E6%AD%B4%E6%9B%B8.jpg" height=150/></a></td>
+     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.docx" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/pictures/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.jpg" height=150/></a></td>
    </tr>
    <tr>
-     <td colspan=2 align="center"><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/NGUYEN%20THANH%20LUAN.pdf" target="_blank"><b>CV</b></a></td>
-     <td colspan=2 align="center"><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/%E5%B1%A5%E6%AD%B4%E6%9B%B8.docx" target="_blank"><b>履歴書</b></a></td>
-     <td colspan=2 align="center"><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.docx" target="_blank"><b>職務経歴書</b></a></td>
+     <td align="center"><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/NGUYEN%20THANH%20LUAN.pdf" target="_blank"><b>CV</b></a></td>
+     <td align="center"><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/%E5%B1%A5%E6%AD%B4%E6%9B%B8.docx" target="_blank"><b>履歴書</b></a></td>
+     <td align="center"><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.docx" target="_blank"><b>職務経歴書</b></a></td>
    </tr>
 </table>
 
@@ -46,31 +46,31 @@
 <a href="https://www.theodinproject.com/dashboard"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/Codewars.png" height=70/></a>
 <a href="https://www.theodinproject.com/dashboard"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/MDN%20Web%20Docs.png" height=70/></a>
 
-**Certificates 修了証明書**
+**🥇 Certificates 修了証明書**
 <table>
    <tr>
-     <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Coursera%E3%80%91%20HTML%2C%20CSS%2C%20and%20Javascript%20for%20Web%20Developers.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/ceritificates/%E3%80%90Coursera%E3%80%91%20HTML%2C%20CSS%2C%20and%20Javascript%20for%20Web%20Developers.jpg" height=75/></a></td>
-     <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Coursera%E3%80%91%20HTML%2C%20CSS%2C%20and%20Javascript%20for%20Web%20Developers.pdf" target="_blank"><b>【Coursera】 HTML, CSS, and Javascript for Web Developers</b></a></td>
+     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Coursera%E3%80%91%20HTML%2C%20CSS%2C%20and%20Javascript%20for%20Web%20Developers.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/ceritificates/%E3%80%90Coursera%E3%80%91%20HTML%2C%20CSS%2C%20and%20Javascript%20for%20Web%20Developers.jpg" height=75/></a></td>
+     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Coursera%E3%80%91%20HTML%2C%20CSS%2C%20and%20Javascript%20for%20Web%20Developers.pdf" target="_blank"><b>【Coursera】 HTML, CSS, and Javascript for Web Developers Completion Certificate</b></a></td>
    </tr>
    <tr>
-     <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90freeCodeCamp%E3%80%91%20Javascript%20Algorithms%20and%20Data%20Structures.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/ceritificates/%E3%80%90freeCodeCamp%E3%80%91%20Javascript%20Algorithms%20and%20Data%20Structures.png" height=75/></a></td>
-     <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90freeCodeCamp%E3%80%91%20Javascript%20Algorithms%20and%20Data%20Structures.pdf" target="_blank"><b>【freeCodeCamp】 Javascript Algorithms and Data Structures</b></a></td>
+     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90freeCodeCamp%E3%80%91%20Javascript%20Algorithms%20and%20Data%20Structures.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/ceritificates/%E3%80%90freeCodeCamp%E3%80%91%20Javascript%20Algorithms%20and%20Data%20Structures.png" height=75/></a></td>
+     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90freeCodeCamp%E3%80%91%20Javascript%20Algorithms%20and%20Data%20Structures.pdf" target="_blank"><b>【freeCodeCamp】 Javascript Algorithms and Data Structures Completion Certificate</b></a></td>
    </tr>
    <tr>
-     <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90freeCodeCamp%E3%80%91%20Responsive%20Web%20Design.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/ceritificates/%E3%80%90freeCodeCamp%E3%80%91%20Responsive%20Web%20Design.png" height=75/></a></td>
-     <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90freeCodeCamp%E3%80%91%20Responsive%20Web%20Design.pdf" target="_blank"><b>【freeCodeCamp】 Responsive Web Design</b></a></td>
+     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90freeCodeCamp%E3%80%91%20Responsive%20Web%20Design.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/ceritificates/%E3%80%90freeCodeCamp%E3%80%91%20Responsive%20Web%20Design.png" height=75/></a></td>
+     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90freeCodeCamp%E3%80%91%20Responsive%20Web%20Design.pdf" target="_blank"><b>【freeCodeCamp】 Responsive Web Design Completion Certificate</b></a></td>
    </tr>
    <tr>
-     <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Udemy%E3%80%91%20The%20Git%20%26%20Github%20Bootcamp.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/ceritificates/%E3%80%90Udemy%E3%80%91%20The%20Git%20%26%20Github%20Bootcamp.jpg" height=75/></a></td>
-     <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Udemy%E3%80%91%20The%20Git%20%26%20Github%20Bootcamp.pdf" target="_blank"><b>【Udemy】 The Git & Github Bootcamp</b></a></td>
+     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Udemy%E3%80%91%20The%20Git%20%26%20Github%20Bootcamp.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/ceritificates/%E3%80%90Udemy%E3%80%91%20The%20Git%20%26%20Github%20Bootcamp.jpg" height=75/></a></td>
+     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Udemy%E3%80%91%20The%20Git%20%26%20Github%20Bootcamp.pdf" target="_blank"><b>【Udemy】 The Git & Github Bootcamp Completion Certificate</b></a></td>
    </tr>
    <tr>
-     <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Udemy%E3%80%91%20The%20Modern%20React%20Bootcamp.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/ceritificates/%E3%80%90Udemy%E3%80%91%20The%20Modern%20React%20Bootcamp.jpg" height=75/></a></td>
-     <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Udemy%E3%80%91%20The%20Modern%20React%20Bootcamp.pdf" target="_blank"><b>【Udemy】 The Modern React Bootcamp</b></a></td>
+     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Udemy%E3%80%91%20The%20Modern%20React%20Bootcamp.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/ceritificates/%E3%80%90Udemy%E3%80%91%20The%20Modern%20React%20Bootcamp.jpg" height=75/></a></td>
+     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Udemy%E3%80%91%20The%20Modern%20React%20Bootcamp.pdf" target="_blank"><b>【Udemy】 The Modern React Bootcamp Completion Certificate</b></a></td>
    </tr>
    <tr>
-     <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Udemy%E3%80%91%20The%20Web%20Developer%20Bootcamp%202021.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/ceritificates/%E3%80%90Udemy%E3%80%91%20The%20Web%20Developer%20Bootcamp%202021.jpg" height=75/></a></td>
-     <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Udemy%E3%80%91%20The%20Web%20Developer%20Bootcamp%202021.pdf" target="_blank"><b>【Udemy】 The Web Developer Bootcamp 2021</b></a></td>
+     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Udemy%E3%80%91%20The%20Web%20Developer%20Bootcamp%202021.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/ceritificates/%E3%80%90Udemy%E3%80%91%20The%20Web%20Developer%20Bootcamp%202021.jpg" height=75/></a></td>
+     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Udemy%E3%80%91%20The%20Web%20Developer%20Bootcamp%202021.pdf" target="_blank"><b>【Udemy】 The Web Developer Bootcamp 2021 Completion Certificate</b></a></td>
    </tr>
 </table>
 
