@@ -5,7 +5,7 @@
 <div align="center">🌱 ウエブ開発に関する職業に就きたいと思っております。</div>
 <div align="center">I am looking to become a full-time web developer.</div>
 
-<div align="center"><h3>📃 Download my CV 👇</h3></div>
+<div align="center"><h3>📃 Download my CVs 👇</h3></div>
 
 <table align="center">
    <tr>
