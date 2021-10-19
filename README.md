@@ -7,7 +7,7 @@
 
 <div align="center"><h3>📃 Download my CVs 👇</h3></div>
 
-<table>
+<table　align="text">
    <tr>
      <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/NGUYEN%20THANH%20LUAN.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/CV.jpg" height=150/></a></td>
      <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/%E5%B1%A5%E6%AD%B4%E6%9B%B8.docx" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/pictures/%E5%B1%A5%E6%AD%B4%E6%9B%B8.jpg" height=150/></a></td>
@@ -47,7 +47,7 @@
 <a href="https://www.theodinproject.com/dashboard"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/MDN%20Web%20Docs.png" height=70/></a>
 
 **Certificates 修了証明書**
-<table align="center">
+<table>
    <tr>
      <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Coursera%E3%80%91%20HTML%2C%20CSS%2C%20and%20Javascript%20for%20Web%20Developers.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/ceritificates/%E3%80%90Coursera%E3%80%91%20HTML%2C%20CSS%2C%20and%20Javascript%20for%20Web%20Developers.jpg" height=75/></a></td>
      <td colspan=2><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Coursera%E3%80%91%20HTML%2C%20CSS%2C%20and%20Javascript%20for%20Web%20Developers.pdf" target="_blank"><b>【Coursera】 HTML, CSS, and Javascript for Web Developers</b></a></td>
