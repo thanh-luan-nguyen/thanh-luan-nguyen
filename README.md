@@ -6,7 +6,7 @@
 <div align="center">I am looking to become a full-time web developer.</div>
 
 <div align="center"><h3>📃 Download my CV 👇</h3></div>
-<div align="center"><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/NGUYEN%20THANH%20LUAN.pdf" target="_blank"><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/NGUYEN%20THANH%20LUAN.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/CV.jpg" width=100/></a></a></div>
+<div align="center"><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/NGUYEN%20THANH%20LUAN.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/CV.jpg" width=100/></a></div>
 
 ## 💼 個人情報 Personal Infos
 - **🌐 母国 Country of origin**: ベトナム・Vietnam
