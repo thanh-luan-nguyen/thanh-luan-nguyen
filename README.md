@@ -330,7 +330,7 @@
   </tr>
 </table>
 
-<h3 align="center">📁 other projects...</h3>
+<h3 align="center">📁 他のプロジェクト other projects...</h3>
 
 <table align="center">
     <tr>
