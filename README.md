@@ -46,7 +46,7 @@
 <a href="https://www.theodinproject.com/dashboard"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/Codewars.png" height=70/></a>
 <a href="https://www.theodinproject.com/dashboard"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/MDN%20Web%20Docs.png" height=70/></a>
 
-**🥇 Certificates 修了証明書**
+**🥇修了証明書 Certificates**
 <table>
    <tr>
      <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Coursera%E3%80%91%20HTML%2C%20CSS%2C%20and%20Javascript%20for%20Web%20Developers.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/ceritificates/%E3%80%90Coursera%E3%80%91%20HTML%2C%20CSS%2C%20and%20Javascript%20for%20Web%20Developers.jpg" height=75/></a></td>
