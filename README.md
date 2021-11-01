@@ -9,14 +9,14 @@
 
 <table align="center">
    <tr>
-     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/NGUYEN%20THANH%20LUAN.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/CV.jpg" height=150/></a></td>
-     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/%E5%B1%A5%E6%AD%B4%E6%9B%B8.docx" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/pictures/%E5%B1%A5%E6%AD%B4%E6%9B%B8.jpg" height=150/></a></td>
-     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.docx" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/pictures/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.jpg" height=150/></a></td>
+     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/github%20CV.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/CV.jpg" height=150/></a></td>
+     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/%E5%B1%A5%E6%AD%B4%E6%9B%B8.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/pictures/%E5%B1%A5%E6%AD%B4%E6%9B%B8.jpg" height=150/></a></td>
+     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/pictures/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.jpg" height=150/></a></td>
    </tr>
    <tr>
-     <td align="center"><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/NGUYEN%20THANH%20LUAN.pdf" target="_blank"><b>CV</b></a></td>
-     <td align="center"><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/%E5%B1%A5%E6%AD%B4%E6%9B%B8.docx" target="_blank"><b>履歴書</b></a></td>
-     <td align="center"><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.docx" target="_blank"><b>職務経歴書</b></a></td>
+     <td align="center"><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/github%20CV.pdf" target="_blank"><b>Github CV</b></a></td>
+     <td align="center"><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/%E5%B1%A5%E6%AD%B4%E6%9B%B8.pdf" target="_blank"><b>履歴書</b></a></td>
+     <td align="center"><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.pdf" target="_blank"><b>職務経歴書</b></a></td>
    </tr>
 </table>
 
