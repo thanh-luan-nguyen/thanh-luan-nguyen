@@ -23,7 +23,7 @@
 ## 💼 個人情報 Personal Infos
 - **🌐 母国 Country of origin**: ベトナム・Vietnam
 - **🎂 生年月日 Date of birth**: 1997年2月18日・February 18, 1997 
-- **📍 現住所 Currently residing in**: 日本国福岡県・Japan, Fukuoka 
+- **📍 現住所 Currently residing in**: 東京都足立区・Tokyo, Adachi 
 - **📞 連絡先 Contact**: (+81) 080-4692-4098
 - **📧 メール Email**: thanhluannguyenxyz@gmail.com
 
