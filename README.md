@@ -2,8 +2,8 @@
 <h3 align="center">私はフロントエンドエンジニアです・Frontend Web Developer</h3>
 <div align="center">🌱 React等のフレームワークを用いて、ウエブサイト制作とUIの設計をしております</div>
 <div align="center">I build websites and design its UI, mainly using frontend frameworks such as React.</div>
-<div align="center">🌱 ウエブ開発に関する職業に就きたいと思っております。</div>
-<div align="center">I am looking to become a full-time web developer.</div>
+<!-- <div align="center">🌱 ウエブ開発に関する職業に就きたいと思っております。</div>
+<div align="center">I am looking to become a full-time web developer.</div> -->
 
 <div align="center"><h3>📃 Download my CVs 👇</h3></div>
 
@@ -23,7 +23,7 @@
 ## 💼 個人情報 Personal Infos
 - **🌐 母国 Country of origin**: ベトナム・Vietnam
 - **🎂 生年月日 Date of birth**: 1997年2月18日・February 18, 1997 
-- **📍 現住所 Currently residing in**: 日本国福岡県・Japan, Fukuoka 
+- **📍 現住所 Currently residing in**: 東京都足立区・Tokyo, Adachi 
 - **📞 連絡先 Contact**: (+81) 080-4692-4098
 - **📧 メール Email**: thanhluannguyenxyz@gmail.com
 
