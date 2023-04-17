@@ -1,7 +1,6 @@
-<h1 align="center">こんにちは Hello 👋 I am NGUYEN THANH LUAN <img src="https://avatars.githubusercontent.com/u/76740922?s=400&u=7221ef665df4b67240c918555cce0a15a59cabaf&v=4" style="border-radius: 50px;" height=50/></h1>
-<h3 align="center">私はフロントエンドエンジニアです・Frontend Web Developer</h3>
+<h1 align="center">こんにちは, NGUYEN THANH LUANです。<img src="https://avatars.githubusercontent.com/u/76740922?s=400&u=7221ef665df4b67240c918555cce0a15a59cabaf&v=4" style="border-radius: 50px;" height=50/></h1>
+<h3 align="center">私はフロントエンドエンジニアです</h3>
 <div align="center">🌱 React等のフレームワークを用いて、ウエブサイト制作とUIの設計をしております</div>
-<div align="center">I build websites and design its UI, mainly using frontend frameworks such as React.</div>
 <!-- <div align="center">🌱 ウエブ開発に関する職業に就きたいと思っております。</div>
 <div align="center">I am looking to become a full-time web developer.</div> -->
 
@@ -21,23 +20,17 @@
 </table>
 
 ## 💼 個人情報 Personal Infos
-- **🌐 母国 Country of origin**: ベトナム・Vietnam
-- **🎂 生年月日 Date of birth**: 1997年2月18日・February 18, 1997 
-- **📍 現住所 Currently residing in**: 東京都足立区・Tokyo, Adachi 
-- **📞 連絡先 Contact**: (+81) 080-4692-4098
-- **📧 メール Email**: thanhluannguyenxyz@gmail.com
+- **🌐 母国**: ベトナム
+- **🎂 生年月日**: 1997年2月18日
+- **📍 現住所**: 千葉市 
+- **📞 連絡先**: (+81) 080-4692-4098
+- **📧 メール**: thanhluannguyenxyz@gmail.com
 
 **🇯🇵 学習歴史の概要:**
 - 大規模公開オンライン講座（Udemy、Coursera)
 - プロジェクト型学習プラットフォーム（The Odin Project, freeCodeCamp)
 - 実践的コーディングプラットフォーム (Codewars, Codecademy)
 - よく使う参考資料はMDN Web Docs、オンライン専門的文書、Stack Overflow、Youtube等
-
-**🇺🇸 My brief history of learning:**
-- MOOC courses (Udemy, Coursera)
-- Project-based Learning Platforms (The Odin Project, freeCodeCamp)
-- Hands-on Coding Platforms (Codewars, Codecademy)
-- My main reference sources are the MDN Web Docs, online technical documents, Stack Overflow, Youtube, etc
 
 <a href="https://www.coursera.org/"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/coursera.png" height=70/></a>
 <a href="https://www.udemy.com/"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/udemy.png" height=70/></a>
