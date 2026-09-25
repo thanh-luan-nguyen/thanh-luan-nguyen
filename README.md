@@ -1,364 +1,121 @@
-<h1 align="center">こんにちは, NGUYEN THANH LUANです。<img src="https://avatars.githubusercontent.com/u/76740922?s=400&u=7221ef665df4b67240c918555cce0a15a59cabaf&v=4" style="border-radius: 50px;" height=50/></h1>
-<h3 align="center">私はシステムエンジニアです(last update: 2022)</h3>
-<div align="center">🌱 React等のフレームワークを用いて、ウエブサイト制作とUIの設計をしております</div>
-<!-- <div align="center">🌱 ウエブ開発に関する職業に就きたいと思っております。</div>
-<div align="center">I am looking to become a full-time web developer.</div> -->
+<h1 align="center">Hi, I'm Luan (Nguyen Thanh Luan) 👋</h1>
+<h3 align="center">Software Engineer · Backend & Cloud (AWS) · Tokyo, Japan</h3>
+<p align="center">こんにちは！日本在住のソフトウェアエンジニアです。</p>
+<p align="center">
+  🇻🇳 Vietnamese (native) · 🇯🇵 Japanese (business, JLPT N1) · 🇬🇧 English (professional, IELTS 7.5)
+</p>
+<p align="center">
+  <a href="mailto:thanhluannguyenxyz@gmail.com"><img src="https://img.shields.io/badge/Email-thanhluannguyenxyz%40gmail.com-05122A?style=flat&logo=gmail"/></a>
+  <!-- <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Profile-05122A?style=flat&logo=linkedin"/></a> -->
+</p>
 
-<div align="center"><h3>📃 Download my CVs 👇</h3></div>
+## 👨‍💻 About me
 
-<table align="center">
-   <tr>
-     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/github%20CV.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/CV.jpg" height=150/></a></td>
-     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/%E5%B1%A5%E6%AD%B4%E6%9B%B8.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/pictures/%E5%B1%A5%E6%AD%B4%E6%9B%B8.jpg" height=150/></a></td>
-     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/pictures/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.jpg" height=150/></a></td>
-   </tr>
-   <tr>
-     <td align="center"><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/github%20CV.pdf" target="_blank"><b>Github CV</b></a></td>
-     <td align="center"><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/%E5%B1%A5%E6%AD%B4%E6%9B%B8.pdf" target="_blank"><b>履歴書</b></a></td>
-     <td align="center"><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.pdf" target="_blank"><b>職務経歴書</b></a></td>
-   </tr>
-</table>
+- Software engineer in Japan since 2022, after starting my career in business operations in 2019.
+- Currently a **sub-leader (team of 6)** on a Japanese municipal-government system standardization program, working on systems that handle My Number (national ID) data.
+- Took part in an **on-premises → AWS migration** (EC2, S3, RDS): approach design, environment build, migration testing and production cutover.
+- Day-to-day: incident investigation and recovery, Oracle data migration, batch operation design, and coordination with municipal staff.
+- I automate repetitive work with **Python** (e.g. scripts that parse and cross-check Excel/XML design documents).
+- AI tools are part of my daily workflow: **Claude / Claude Code**, Microsoft 365 Copilot, and **Copilot Studio agents** I built on top of internal docs for first-line Q&A.
 
-## 💼 個人情報 Personal Infos
-- **🌐 母国**: ベトナム
-- **🎂 生年月日**: 1997年2月18日
-- **📍 現住所**: 千葉市 
-- **📞 連絡先**: (+81) 080-4692-4098
-- **📧 メール**: thanhluannguyenxyz@gmail.com
+## 💼 Experience
 
-**🇯🇵 学習歴史の概要:**
-- 大規模公開オンライン講座（Udemy、Coursera)
-- プロジェクト型学習プラットフォーム（The Odin Project, freeCodeCamp)
-- 実践的コーディングプラットフォーム (Codewars, Codecademy)
-- よく使う参考資料はMDN Web Docs、オンライン専門的文書、Stack Overflow、Youtube等
+| Period | Company | Role & work |
+| --- | --- | --- |
+| 2023.12 – now | FPT Software Japan | Sub-leader · municipal systems (My Number) · AWS migration, Java, Python, SQL, Oracle |
+| 2022.07 – 2023.10 | NextData | Software engineer · maintenance & enhancement of a large-scale point-management system (Java/Seasar, Oracle, BigQuery) · bug fixing on a Spring Boot + PostgreSQL e-commerce app · internal Python tool (CSV → Excel shift schedules) |
+| 2022.01 – 2022.04 | OneWorld Financial Education Organization | Web developer · company website (PHP, JavaScript, MySQL), responsive design, multilingual support |
 
-<a href="https://www.coursera.org/"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/coursera.png" height=70/></a>
-<a href="https://www.udemy.com/"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/udemy.png" height=70/></a>
-<a href="https://www.freecodecamp.org/learn/"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/freeCodeCamp.png" height=70/></a>
-<a href="https://www.theodinproject.com/dashboard"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/theOdinProject.png" height=70/></a>
-<a href="https://www.theodinproject.com/dashboard"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/Codewars.png" height=70/></a>
-<a href="https://www.theodinproject.com/dashboard"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/MDN%20Web%20Docs.png" height=70/></a>
+## 🚀 Side projects
 
-**🥇修了証明書 Certificates**
-<table>
-   <tr>
-     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Coursera%E3%80%91%20HTML%2C%20CSS%2C%20and%20Javascript%20for%20Web%20Developers.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/ceritificates/%E3%80%90Coursera%E3%80%91%20HTML%2C%20CSS%2C%20and%20Javascript%20for%20Web%20Developers.jpg" height=75/></a></td>
-     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Coursera%E3%80%91%20HTML%2C%20CSS%2C%20and%20Javascript%20for%20Web%20Developers.pdf" target="_blank"><b>【Coursera】 HTML, CSS, and Javascript for Web Developers Completion Certificate</b></a></td>
-   </tr>
-   <tr>
-     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90freeCodeCamp%E3%80%91%20Javascript%20Algorithms%20and%20Data%20Structures.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/ceritificates/%E3%80%90freeCodeCamp%E3%80%91%20Javascript%20Algorithms%20and%20Data%20Structures.png" height=75/></a></td>
-     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90freeCodeCamp%E3%80%91%20Javascript%20Algorithms%20and%20Data%20Structures.pdf" target="_blank"><b>【freeCodeCamp】 Javascript Algorithms and Data Structures Completion Certificate</b></a></td>
-   </tr>
-   <tr>
-     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90freeCodeCamp%E3%80%91%20Responsive%20Web%20Design.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/ceritificates/%E3%80%90freeCodeCamp%E3%80%91%20Responsive%20Web%20Design.png" height=75/></a></td>
-     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90freeCodeCamp%E3%80%91%20Responsive%20Web%20Design.pdf" target="_blank"><b>【freeCodeCamp】 Responsive Web Design Completion Certificate</b></a></td>
-   </tr>
-   <tr>
-     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Udemy%E3%80%91%20The%20Git%20%26%20Github%20Bootcamp.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/ceritificates/%E3%80%90Udemy%E3%80%91%20The%20Git%20%26%20Github%20Bootcamp.jpg" height=75/></a></td>
-     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Udemy%E3%80%91%20The%20Git%20%26%20Github%20Bootcamp.pdf" target="_blank"><b>【Udemy】 The Git & Github Bootcamp Completion Certificate</b></a></td>
-   </tr>
-   <tr>
-     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Udemy%E3%80%91%20The%20Modern%20React%20Bootcamp.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/ceritificates/%E3%80%90Udemy%E3%80%91%20The%20Modern%20React%20Bootcamp.jpg" height=75/></a></td>
-     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Udemy%E3%80%91%20The%20Modern%20React%20Bootcamp.pdf" target="_blank"><b>【Udemy】 The Modern React Bootcamp Completion Certificate</b></a></td>
-   </tr>
-   <tr>
-     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Udemy%E3%80%91%20The%20Web%20Developer%20Bootcamp%202021.pdf" target="_blank"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/ceritificates/%E3%80%90Udemy%E3%80%91%20The%20Web%20Developer%20Bootcamp%202021.jpg" height=75/></a></td>
-     <td><a href="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Udemy%E3%80%91%20The%20Web%20Developer%20Bootcamp%202021.pdf" target="_blank"><b>【Udemy】 The Web Developer Bootcamp 2021 Completion Certificate</b></a></td>
-   </tr>
-</table>
+| Project | Stack | Notes |
+| --- | --- | --- |
+| Container P/L tracker | Next.js · Supabase (PostgreSQL) · Vercel | Profit/loss tracking web app used by a small business: real-time sync, CSV import, scheduled jobs with Vercel Cron *(private)* |
+| YouTube auto-dub extension | Chrome Extension (Manifest V3) · Anthropic API · TTS | Dubs YouTube videos into Vietnamese *(private)* |
+| S3Viewer | PowerShell | Desktop GUI for browsing and previewing S3 objects *(private)* |
+| [restapi_jpa](https://github.com/thanh-luan-nguyen/restapi_jpa) | Java · JPA | REST API practice project |
+| [netflix-clone](https://github.com/thanh-luan-nguyen/netflix-clone) | TypeScript · Vercel | [Live demo](https://netflix-clone-flax-eight.vercel.app) |
+| [cms-blog](https://github.com/thanh-luan-nguyen/cms-blog) | TypeScript | Blog site |
 
-## 🛠️ 使っているツール Tools I code with
-![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass&logoColor=1572B6)&nbsp;
-![Prettier](https://img.shields.io/badge/-Prettier-05122A?style=flat&logo=prettier&logoColor=1572B6)&nbsp;
-![ESLint](https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=eslint&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+## 🛠️ Tech stack
+
+**Languages**
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
+![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+
+**Frameworks**
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styled-components)&nbsp;
-![React Router](https://img.shields.io/badge/-React%20Router-05122A?style=flat&logo=react-router)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle&logoColor=F80000)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![BigQuery](https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=googlebigquery)&nbsp;
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
+
+**Cloud & infrastructure**
+![AWS](https://img.shields.io/badge/-AWS%20(EC2%20·%20S3%20·%20RDS)-05122A?style=flat&logo=amazonwebservices)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-05122A?style=flat&logo=windows)
+
+**Tools**
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp; -->
-![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)&nbsp;
-![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)&nbsp;
-![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongoose)&nbsp;
-![CodeSandbox](https://img.shields.io/badge/-CodeSandbox-05122A?style=flat&logo=codesandbox)&nbsp;
-![Codepen](https://img.shields.io/badge/-Codepen-05122A?style=flat&logo=codepen)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;
+![Confluence](https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=confluence)&nbsp;
+![Backlog](https://img.shields.io/badge/-Backlog-05122A?style=flat)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=vscodium)
 
-## 📈 Githubでの活動の統計 Github activities
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanh-luan-nguyen&layout=compact)" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanh-luan-nguyen&show_icons=true&theme=tokyonight" />
-</p>
-  
-## 🗃️ オープンソースプロジェクト Open source projects
+**AI**
+![Claude](https://img.shields.io/badge/-Claude%20%2F%20Claude%20Code-05122A?style=flat&logo=claude)&nbsp;
+![Copilot](https://img.shields.io/badge/-Microsoft%20Copilot%20Studio-05122A?style=flat&logo=githubcopilot)
 
-<p align="center">
-  <a href="https://www.theodinproject.com/dashboard"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/theOdinProject.png" height=100/></a>
-</p>
-<table align="center">
-   <tr>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Google%20Homepage.gif" width=500/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Youtube%20homepage.gif" width=500/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Rock%20Paper%20Scissors.gif" width=500/></td>
-   </tr>
-   <tr>
-     <td colspan=2 align="center"><b>Google homepage</b></td>
-     <td colspan=2 align="center"><b>Youtube videopage</b></td>
-     <td colspan=2 align="center"><b>rock paper scissors</b></td>
-   </tr>
-   <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/google-homepage">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/google-homepage">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://g5gud.csb.app/">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://codesandbox.io/s/youtube-video-page-g5gud">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/rock-paper-scissors">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/rock-paper-scissors">Code</a></td>
-  </tr>
-</table>
-<table align="center">
-  <tr>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Calculator.gif" width=500/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/etch-a-sketch.gif" width=500/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/TicTacToe.gif" width=500/></td>
-   </tr>
-   <tr>
-     <td colspan=2 align="center"><b>calculator app</b></td>
-     <td colspan=2 align="center"><b>etch-a-sketch pad</b></td>
-     <td colspan=2 align="center"><b>tic-tac-toe</b></td>
-   </tr>
-   <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/calculator-app">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/calculator-app">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/etch-a-sketch/">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/etch-a-sketch">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/tic-tac-toe">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/tic-tac-toe">Code</a></td>
-  </tr>
-</table>
-<table align="center">
-  <tr>
-    <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Memory%20Card.gif" width=500/></td>
-    <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Mellandi%20Caravan.gif" width=500/></td>
-    <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/Jest.png" width=500/></td>
-   </tr>
-   <tr>
-     <td colspan=2 align="center"><b>memory card game</b></td>
-     <td colspan=2 align="center"><b>restaurant page</b></td>
-     <td colspan=2 align="center"><b>unit testing practice</b></td>
-   </tr>
-   <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/memory-card-game">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/memory-card-game">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/restaurant-page">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/restaurant-page">Code</a></td>
-     <td colspan=2 align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/testing-practice">Code</a></td>
-  </tr>
-</table>
-<table align="center">
-  <tr>
-    <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Library.gif" width=500/></td>
-    <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/CV%20Builder.gif" width=500/></td>
-    <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Weather%20App.gif" width=500/></td>
-   </tr>
-   <tr>
-     <td colspan=2 align="center"><b>🌟 book keeping app 🌟</b></td>
-     <td colspan=2 align="center"><b>🌟 cv-builder 🌟</b></td>
-     <td colspan=2 align="center"><b>🌟 weather app 🌟</b></td>
-   </tr>
-   <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/book-keeping-app">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/book-keeping-app">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/cv-builder">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/cv-builder">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/weather-app">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/weather-app">Code</a></td>
-  </tr>
-</table>
-<table align="center">
-  <tr>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Todo%20List.gif" width=500/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/Shopping%20Cart.gif" width=500/></td>
-   </tr>
-   <tr>
-     <td colspan=2 align="center"><b>🌟🌟 todolist app 🌟🌟</b></td>
-     <td colspan=2 align="center"><b>🌟🌟 shopping website 🌟🌟</b></td>
-   </tr>
-   <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/to-do-list">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/to-do-list">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/shopping-cart">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/shopping-cart">Code</a></td>
-     
-  </tr>
-</table>
-<table align="center">
-  <tr>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/theOdinProject/faekbook.gif" width=1000/></td>
-   </tr>
-   <tr>
-     <td colspan=2 align="center"><b>🌟🌟🌟 faekbook 🌟🌟🌟</b></td>
-   </tr>
-  <tr>
-    <td colspan=2 align="center"><div>🤩 私の代表的なプロジェクト：<strong>Facebook</strong>のクローンサイト</div><div>🤩 My biggest project: a <strong>Facebook</strong> clone</div></td>
-   </tr>
-   <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/faekbook">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/faekbook">Code</a></td>
-  </tr>
-</table>
+## 📜 Certifications & education
 
+- **Information Security Management Examination (SG)** — IPA, 2024
+- **Fundamental Information Technology Engineer Examination (FE)** — IPA, 2022
+- **JLPT N1** — 2018
+- **IELTS 7.5** — 2014
+- **B.A., Ritsumeikan Asia Pacific University** — 2019
 
-<p align="center">
-  <a href="https://www.udemy.com/course/the-web-developer-bootcamp/"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/udemy.png" height=100/></a>
-</p>
+## 🎯 Currently exploring
 
-<table align="center">
-    <tr>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Dad%20Jokes%20App.gif" width=500/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Calculator.gif" width=500/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Pokedex.gif" width=500/></td>
-   </tr>
-   <tr>
-     <td colspan=2 align="center"><b>dad jokes app</b></td>
-     <td colspan=2 align="center"><b>calculator</b></td>
-     <td colspan=2 align="center"><b>pokedex</b></td>
-   </tr>
-   <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/dad-jokes-app/">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/dad-jokes-app">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/calculator-2/">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/calculator-2">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/pokedex/">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/pokedex">Code</a></td>
-  </tr>
-</table>
-<table align="center">
-    <tr>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Task%20App.gif" width=500/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Roll%20Dice.gif" width=500/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/HangMan.gif" width=500/></td>
-   </tr>
-   <tr>
-     <td colspan=2 align="center"><b>task app</b></td>
-     <td colspan=2 align="center"><b>roll dice app</b></td>
-     <td colspan=2 align="center"><b>hangman</b></td>
-   </tr>
-   <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/task-app/">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/task-app">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/roll-dice/">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/roll-dice">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/hangman/">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/hangman">Code</a></td>
-  </tr>
-</table>
-<table align="center">
-    <tr>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Lights%20Out.gif" width=500/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Color%20Box%20Maker.gif" width=500/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/udemy/Todo%20List%20React.gif" width=500/></td>
-   </tr>
-   <tr>
-     <td colspan=2 align="center"><b>lights-out game</b></td>
-     <td colspan=2 align="center"><b>color box maker</b></td>
-     <td colspan=2 align="center"><b>to-do-list</b></td>
-   </tr>
-   <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/lights-out/">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/lights-out">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/box-maker/">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/box-maker">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/to-do-list-react/">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/to-do-list-react">Code</a></td>
-  </tr>
-</table>
+- LLM application development (RAG, AI agents)
 
-<p align="center">
-  <a href="https://www.freecodecamp.org/learn/"><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/pictures/freeCodeCamp.png" height=100/></a>
-</p>
+<details>
+<summary><b>📚 Early learning projects (2021–2022)</b></summary>
 
-<table align="center">
-    <tr>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Survey%20Form.gif" width=500/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Tribute%20Page.gif" width=500/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Technical%20Documentation%20Page.gif" width=500/></td>
-   </tr>
-   <tr>
-     <td colspan=2 align="center"><b>survey form</b></td>
-     <td colspan=2 align="center"><b>tribute page</b></td>
-     <td colspan=2 align="center"><b>technical documentation page</b></td>
-   </tr>
-   <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/survey-form/">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/survey-form">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/tribute-page/">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/tribute-page">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/technical-documentation-page/">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/technical-documentation-page">Code</a></td>
-  </tr>
-</table>
-<table align="center">
-    <tr>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Expanding%20Cards.gif" width=500/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Product%20Landing%20Page.gif" width=500/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Random%20Quote%20Machine.gif" width=500/></td>
-   </tr>
-   <tr>
-     <td colspan=2 align="center"><b>expanding cards</b></td>
-     <td colspan=2 align="center"><b>product landing page</b></td>
-     <td colspan=2 align="center"><b>random quote machine</b></td>
-   </tr>
-   <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/expanding-cards/">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/expanding-cards">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/product-landing-page/">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/product-landing-page">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://mtdmo.csb.app/">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://codesandbox.io/s/random-quote-machine-mtdmo">Code</a></td>
-  </tr>
-</table>
+Built while self-studying with The Odin Project, freeCodeCamp, Udemy and Coursera.
 
-<h3 align="center">📁 他のプロジェクト other projects...</h3>
+| Project | Live demo | Code |
+| --- | --- | --- |
+| faekbook (Facebook clone) | [demo](https://thanh-luan-nguyen.github.io/faekbook) | [code](https://github.com/thanh-luan-nguyen/faekbook) |
+| Shopping website | [demo](https://thanh-luan-nguyen.github.io/shopping-cart) | [code](https://github.com/thanh-luan-nguyen/shopping-cart) |
+| To-do list app | [demo](https://thanh-luan-nguyen.github.io/to-do-list) | [code](https://github.com/thanh-luan-nguyen/to-do-list) |
+| Weather app | [demo](https://thanh-luan-nguyen.github.io/weather-app) | [code](https://github.com/thanh-luan-nguyen/weather-app) |
+| CV builder | [demo](https://thanh-luan-nguyen.github.io/cv-builder) | [code](https://github.com/thanh-luan-nguyen/cv-builder) |
+| Book-keeping app | [demo](https://thanh-luan-nguyen.github.io/book-keeping-app) | [code](https://github.com/thanh-luan-nguyen/book-keeping-app) |
+| Memory card game | [demo](https://thanh-luan-nguyen.github.io/memory-card-game) | [code](https://github.com/thanh-luan-nguyen/memory-card-game) |
+| Unit testing practice (Jest) | — | [code](https://github.com/thanh-luan-nguyen/testing-practice) |
 
-<table align="center">
-    <tr>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/others/Accordion%20UI.png" width=500/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/others/Responsive%20Made%20Easy.gif" width=500/></td>
-     <td colspan=2><img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/others/China%20Bistro.png" width=500/></td>
-   </tr>
-   <tr>
-     <td colspan=2 align="center"><b>accordion UI design</b></td>
-     <td colspan=2 align="center"><b>a responsive website</b></td>
-     <td colspan=2 align="center"><b>Course final project</b></td>
-   </tr>
-   <tr>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/accordion-ui-design/">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/accordion-ui-design">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/a-responsive-website/">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/a-responsive-website">Code</a></td>
-     <td align="center">🧱&nbsp <a href="https://thanh-luan-nguyen.github.io/China-Bistro/">Live Demo</a></td>
-     <td align="center">⚙️&nbsp <a href="https://github.com/thanh-luan-nguyen/China-Bistro">Code</a></td>
-  </tr>
-</table>
+Course certificates:
+[Coursera – HTML, CSS, and JavaScript for Web Developers](https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Coursera%E3%80%91%20HTML%2C%20CSS%2C%20and%20Javascript%20for%20Web%20Developers.pdf) ·
+[freeCodeCamp – JavaScript Algorithms and Data Structures](https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90freeCodeCamp%E3%80%91%20Javascript%20Algorithms%20and%20Data%20Structures.pdf) ·
+[freeCodeCamp – Responsive Web Design](https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90freeCodeCamp%E3%80%91%20Responsive%20Web%20Design.pdf) ·
+[Udemy – The Git & GitHub Bootcamp](https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Udemy%E3%80%91%20The%20Git%20%26%20Github%20Bootcamp.pdf) ·
+[Udemy – The Modern React Bootcamp](https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Udemy%E3%80%91%20The%20Modern%20React%20Bootcamp.pdf) ·
+[Udemy – The Web Developer Bootcamp 2021](https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/raw/main/certificates/%E3%80%90Udemy%E3%80%91%20The%20Web%20Developer%20Bootcamp%202021.pdf)
 
-# 🤾‍♂️ 希望・目標 My aspirations and my objectives 
-> <div><div>自分が学んだことを充実に発揮できるポジションに就ければと思います。</div><div>I am looking forward to a position where I can demonstrate my learned skills to the fullest.</div></div>
+</details>
 
-### 自分のこれからの学習目標 My next learning plans:
-- デザイニングツール（例：Figma, Adobe Photoshop等）Designing tools such as Figma, Adobe Photoshop, etc
-- サーバー側プログラミングのスキル・知識 More server side programming skills and knowledge
-- もっとのバックエンドの技術 More backend technologies
-- ソフトウェアエンジニアリング Software Engineering
-- Python, Django,...
-
-# <div align="center"><div>🙌 最後までお読みいただきありがとうございました❕ 🙇‍</div><div>🙌 Thank you so much for reading my portfolio till the end❕ 🙇‍</div></div>
+<p align="center">Thanks for stopping by! 🙌</p>
