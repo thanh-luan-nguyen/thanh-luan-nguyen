@@ -1,5 +1,5 @@
 <h1 align="center">こんにちは, NGUYEN THANH LUANです。<img src="https://avatars.githubusercontent.com/u/76740922?s=400&u=7221ef665df4b67240c918555cce0a15a59cabaf&v=4" style="border-radius: 50px;" height=50/></h1>
-<h3 align="center">私はフロントエンドエンジニアです</h3>
+<h3 align="center">私はシステムエンジニアです(last update: 2022)</h3>
 <div align="center">🌱 React等のフレームワークを用いて、ウエブサイト制作とUIの設計をしております</div>
 <!-- <div align="center">🌱 ウエブ開発に関する職業に就きたいと思っております。</div>
 <div align="center">I am looking to become a full-time web developer.</div> -->
